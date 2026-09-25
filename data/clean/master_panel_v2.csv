@@ -1,0 +1,978 @@
+HEP_Code,Institution_raw,Year,Cohort,doctorate_by_research,masters_by_research,hdr_completions,hdr_has_suppressed_lt5,Institution_canonical,total_completions,rbg_total,rbg_rtp,rbg_rsp_like,rbg_total_covid_adj
+3006,Australian Catholic University,2024,non-aligned,40.0,2.0,42.0,True,Australian Catholic University,7002.0,4358618,2700110.0,1658508.0,4358618.0
+2252,Avondale University ,2024,non-aligned,6.0,2.0,8.0,True,Avondale University ,255.0,129209,95094.0,34115.0,129209.0
+2246,Batchelor Institute of Indigenous Tertiary Education,2024,non-aligned,2.0,2.0,4.0,True,Batchelor Institute of Indigenous Tertiary Education,0.0,455430,181933.0,273497.0,455430.0
+3003,Bond University ,2024,non-aligned,38.0,6.0,44.0,False,Bond University ,1715.0,3263146,2244753.0,1018393.0,3263146.0
+2200,Central Queensland University,2024,RUN,50.0,22.0,72.0,False,Central Queensland University,5503.0,7910457,4260945.0,3649512.0,7910457.0
+3001,Charles Darwin University,2024,non-aligned,51.0,2.0,53.0,True,Charles Darwin University,3023.0,22706340,10170682.0,12535658.0,22706340.0
+3005,Charles Sturt University,2024,RUN,62.0,2.0,64.0,True,Charles Sturt University,7472.0,8080441,4899349.0,3181092.0,8080441.0
+2236,Curtin University,2024,ATN,250.0,50.0,300.0,False,Curtin University,11834.0,54457752,30736270.0,23721482.0,54457752.0
+3030,Deakin University,2024,ATN,348.0,22.0,370.0,False,Deakin University,14311.0,52735408,30037103.0,22698305.0,52735408.0
+2235,Edith Cowan University,2024,non-aligned,107.0,32.0,139.0,False,Edith Cowan University,7801.0,11104956,7021835.0,4083121.0,11104956.0
+2154,Federation University Australia,2024,RUN,45.0,6.0,51.0,False,Federation University Australia,3219.0,4286482,2971820.0,1314662.0,4286482.0
+3029,Flinders University,2024,IRU,157.0,9.0,166.0,False,Flinders University,6951.0,38946131,19713567.0,19232564.0,38946131.0
+3032,Griffith University,2024,IRU,249.0,44.0,293.0,False,Griffith University,9980.0,46250775,28270010.0,17980765.0,46250775.0
+1019,James Cook University,2024,IRU,93.0,16.0,109.0,False,James Cook University,5312.0,21045757,12198540.0,8847217.0,21045757.0
+3020,La Trobe University,2024,IRU,172.0,58.0,230.0,False,La Trobe University,9737.0,37585210,21227058.0,16358152.0,37585210.0
+3025,Macquarie University,2024,non-aligned,237.0,243.0,480.0,False,Macquarie University,9827.0,51526657,32626464.0,18900193.0,51526657.0
+3035,Monash University,2024,Go8,845.0,49.0,894.0,False,Monash University,23887.0,238965635,122798840.0,116166795.0,238965635.0
+1034,Murdoch University,2024,IRU,101.0,45.0,146.0,False,Murdoch University,5275.0,18840548,11561091.0,7279457.0,18840548.0
+3042,Queensland University of Technology,2024,non-aligned,306.0,99.0,405.0,False,Queensland University of Technology,11488.0,56855908,33921139.0,22934769.0,56855908.0
+3034,Royal Melbourne Institute of Technology,2024,ATN,377.0,46.0,423.0,False,Royal Melbourne Institute of Technology,18967.0,48981590,30396426.0,18585164.0,48981590.0
+3038,Southern Cross University,2024,RUN,39.0,11.0,50.0,False,Southern Cross University,4853.0,9071762,4997742.0,4074020.0,9071762.0
+2177,Swinburne University of Technology,2024,non-aligned,240.0,36.0,276.0,False,Swinburne University of Technology,9410.0,29979057,19342184.0,10636873.0,29979057.0
+3033,The Australian National University,2024,Go8,396.0,38.0,434.0,False,The Australian National University,7059.0,125022054,58237230.0,66784824.0,125022054.0
+3010,The University of Adelaide,2024,Go8,273.0,72.0,345.0,False,The University of Adelaide,8038.0,102833586,53241854.0,49591732.0,102833586.0
+3036,The University of Melbourne,2024,Go8,794.0,81.0,875.0,False,The University of Melbourne,23195.0,243512096,117206808.0,126305288.0,243512096.0
+3044,The University of Notre Dame Australia,2024,non-aligned,26.0,24.0,50.0,False,The University of Notre Dame Australia,2075.0,2843803,2116002.0,727801.0,2843803.0
+3019,The University of Queensland,2024,Go8,710.0,56.0,766.0,False,The University of Queensland,14426.0,181718120,96646012.0,85072108.0,181718120.0
+3040,The University of Sydney,2024,Go8,698.0,152.0,850.0,False,The University of Sydney,22556.0,201525251,102046959.0,99478292.0,201525251.0
+1055,The University of Western Australia,2024,Go8,293.0,40.0,333.0,False,The University of Western Australia,6821.0,89181877,43932830.0,45249047.0,89181877.0
+4449,Torrens University Australia,2024,non-aligned,8.0,10.0,18.0,False,Torrens University Australia,5662.0,653160,387107.0,266053.0,653160.0
+2241,University of Canberra,2024,IRU,60.0,2.0,62.0,True,University of Canberra,4557.0,8326756,4673318.0,3653438.0,8326756.0
+4331,University of Divinity,2024,non-aligned,12.0,2.0,14.0,True,University of Divinity,489.0,1170689,673016.0,497673.0,1170689.0
+3039,University of New England,2024,RUN,72.0,11.0,83.0,False,University of New England,3481.0,18574466,10271411.0,8303055.0,18574466.0
+3013,University of New South Wales,2024,Go8,649.0,120.0,769.0,False,University of New South Wales,20821.0,204439251,105060012.0,99379239.0,204439251.0
+3014,University of Newcastle,2024,ATN,220.0,11.0,231.0,False,University of Newcastle,7983.0,55282508,31145614.0,24136894.0,55282508.0
+3027,University of South Australia,2024,ATN,134.0,30.0,164.0,False,University of South Australia,7763.0,33883655,17306833.0,16576822.0,33883655.0
+2201,University of Southern Queensland,2024,RUN,114.0,17.0,131.0,False,University of Southern Queensland,4378.0,16191389,10225314.0,5966075.0,16191389.0
+3045,University of Tasmania,2024,non-aligned,228.0,13.0,241.0,False,University of Tasmania,9898.0,51490241,27645641.0,23844600.0,51490241.0
+3016,University of Technology Sydney,2024,ATN,339.0,38.0,377.0,False,University of Technology Sydney,12318.0,47084992,30025624.0,17059368.0,47084992.0
+3043,University of the Sunshine Coast,2024,RUN,56.0,6.0,62.0,False,University of the Sunshine Coast,3457.0,11915364,6488994.0,5426370.0,11915364.0
+1058,University of Wollongong,2024,non-aligned,226.0,26.0,252.0,False,University of Wollongong,8216.0,40629758,25561863.0,15067895.0,40629758.0
+3007,Victoria University,2024,non-aligned,75.0,11.0,86.0,False,Victoria University,11241.0,11538694,6499964.0,5038730.0,11538694.0
+3004,Western Sydney University,2024,IRU,176.0,67.0,243.0,False,Western Sydney University,10936.0,25922427,16496385.0,9426042.0,25922427.0
+3006,Australian Catholic University,2023,non-aligned,39.0,2.0,41.0,True,Australian Catholic University,7182.0,4356586,2876087.0,1480499.0,4356586.0
+2246,Batchelor Institute of Indigenous Tertiary Education,2023,non-aligned,2.0,0.0,2.0,True,Batchelor Institute of Indigenous Tertiary Education,3.0,349025,174602.0,174423.0,349025.0
+3003,Bond University ,2023,non-aligned,19.0,2.0,21.0,True,Bond University ,1754.0,2774328,1864695.0,909633.0,2774328.0
+2200,Central Queensland University,2023,RUN,31.0,21.0,52.0,False,Central Queensland University,3918.0,7423540,3840243.0,3583297.0,7423540.0
+3001,Charles Darwin University,2023,non-aligned,44.0,6.0,50.0,False,Charles Darwin University,2929.0,19235065,8539898.0,10695167.0,19235065.0
+3005,Charles Sturt University,2023,RUN,58.0,5.0,63.0,False,Charles Sturt University,7331.0,7147484,4642645.0,2504839.0,7147484.0
+2236,Curtin University,2023,ATN,259.0,38.0,297.0,False,Curtin University,10255.0,50684099,29670302.0,21013797.0,50684099.0
+3030,Deakin University,2023,ATN,313.0,18.0,331.0,False,Deakin University,13284.0,42829550,23997700.0,18831850.0,42829550.0
+2235,Edith Cowan University,2023,non-aligned,106.0,34.0,140.0,False,Edith Cowan University,6089.0,10281811,6580496.0,3701315.0,10281811.0
+2154,Federation University Australia,2023,RUN,38.0,6.0,44.0,False,Federation University Australia,3233.0,4157383,2974444.0,1182939.0,4157383.0
+3029,Flinders University,2023,IRU,135.0,8.0,143.0,False,Flinders University,5419.0,30849454,16850703.0,13998751.0,30849454.0
+3032,Griffith University,2023,IRU,294.0,51.0,345.0,False,Griffith University,9305.0,42175399,26006458.0,16168941.0,42175399.0
+1019,James Cook University,2023,IRU,99.0,20.0,119.0,False,James Cook University,4612.0,17631072,10432319.0,7198753.0,17631072.0
+3020,La Trobe University,2023,IRU,184.0,58.0,242.0,False,La Trobe University,8075.0,33333108,17964869.0,15368239.0,33333108.0
+3025,Macquarie University,2023,non-aligned,268.0,247.0,515.0,False,Macquarie University,8574.0,48530421,31331018.0,17199403.0,48530421.0
+3035,Monash University,2023,Go8,968.0,55.0,1023.0,False,Monash University,23134.0,209259325,107450028.0,101809297.0,209259325.0
+1034,Murdoch University,2023,IRU,92.0,43.0,135.0,False,Murdoch University,4666.0,16082128,9700041.0,6382087.0,16082128.0
+3042,Queensland University of Technology,2023,non-aligned,285.0,95.0,380.0,False,Queensland University of Technology,10535.0,52786093,31692976.0,21093117.0,52786093.0
+3034,Royal Melbourne Institute of Technology,2023,ATN,400.0,35.0,435.0,False,Royal Melbourne Institute of Technology,17944.0,42474565,27264714.0,15209851.0,42474565.0
+3038,Southern Cross University,2023,RUN,42.0,11.0,53.0,False,Southern Cross University,4192.0,7138417,4129550.0,3008867.0,7138417.0
+2177,Swinburne University of Technology,2023,non-aligned,226.0,24.0,250.0,False,Swinburne University of Technology,8491.0,25138998,15728868.0,9410130.0,25138998.0
+3033,The Australian National University,2023,Go8,377.0,26.0,403.0,False,The Australian National University,6371.0,111732293,52476862.0,59255431.0,111732293.0
+3010,The University of Adelaide,2023,Go8,326.0,60.0,386.0,False,The University of Adelaide,7377.0,98356628,50193228.0,48163400.0,98356628.0
+3036,The University of Melbourne,2023,Go8,764.0,96.0,860.0,False,The University of Melbourne,22194.0,234362937,114471132.0,119891805.0,234362937.0
+3044,The University of Notre Dame Australia,2023,non-aligned,17.0,16.0,33.0,False,The University of Notre Dame Australia,2401.0,2739981,2222326.0,517655.0,2739981.0
+3019,The University of Queensland,2023,Go8,741.0,56.0,797.0,False,The University of Queensland,13850.0,180611789,94870189.0,85741600.0,180611789.0
+3040,The University of Sydney,2023,Go8,780.0,163.0,943.0,False,The University of Sydney,20718.0,192353810,95933704.0,96420106.0,192353810.0
+1055,The University of Western Australia,2023,Go8,335.0,38.0,373.0,False,The University of Western Australia,6427.0,85047271,42064772.0,42982499.0,85047271.0
+4449,Torrens University Australia,2023,non-aligned,2.0,2.0,4.0,True,Torrens University Australia,4702.0,436616,208714.0,227902.0,436616.0
+2241,University of Canberra,2023,IRU,77.0,7.0,84.0,False,University of Canberra,3906.0,7351273,4001021.0,3350252.0,7351273.0
+4331,University of Divinity,2023,non-aligned,7.0,0.0,7.0,False,University of Divinity,448.0,974077,513984.0,460093.0,974077.0
+3039,University of New England,2023,RUN,75.0,15.0,90.0,False,University of New England,3556.0,17907725,9929354.0,7978371.0,17907725.0
+3013,University of New South Wales,2023,Go8,717.0,84.0,801.0,False,University of New South Wales,18433.0,196013585,97780933.0,98232652.0,196013585.0
+3014,University of Newcastle,2023,ATN,229.0,8.0,237.0,False,University of Newcastle,7475.0,54950636,30662349.0,24288287.0,54950636.0
+3027,University of South Australia,2023,ATN,137.0,36.0,173.0,False,University of South Australia,7212.0,33186798,16956684.0,16230114.0,33186798.0
+2201,University of Southern Queensland,2023,RUN,102.0,34.0,136.0,False,University of Southern Queensland,3756.0,13162298,8665604.0,4496694.0,13162298.0
+3045,University of Tasmania,2023,non-aligned,233.0,10.0,243.0,False,University of Tasmania,9103.0,49478384,26684857.0,22793527.0,49478384.0
+3016,University of Technology Sydney,2023,ATN,341.0,23.0,364.0,False,University of Technology Sydney,10453.0,44449378,28541184.0,15908194.0,44449378.0
+3043,University of the Sunshine Coast,2023,RUN,63.0,8.0,71.0,False,University of the Sunshine Coast,3111.0,9990007,5545472.0,4444535.0,9990007.0
+1058,University of Wollongong,2023,non-aligned,218.0,24.0,242.0,False,University of Wollongong,7311.0,36702101,23545862.0,13156239.0,36702101.0
+3007,Victoria University,2023,non-aligned,61.0,24.0,85.0,False,Victoria University,10514.0,10369681,6635317.0,3734364.0,10369681.0
+3004,Western Sydney University,2023,IRU,193.0,84.0,277.0,False,Western Sydney University,9328.0,24291938,15943858.0,8348080.0,24291938.0
+3006,Australian Catholic University,2022,non-aligned,36.0,2.0,38.0,True,Australian Catholic University,7423.0,4588489,3120749.0,1467740.0,4588489.0
+2246,Batchelor Institute of Indigenous Tertiary Education,2022,non-aligned,0.0,0.0,0.0,False,Batchelor Institute of Indigenous Tertiary Education,,343521,209801.0,133720.0,343521.0
+3003,Bond University ,2022,non-aligned,27.0,5.0,32.0,False,Bond University ,1545.0,2467455,1544813.0,922642.0,2467455.0
+2200,Central Queensland University,2022,RUN,37.0,22.0,59.0,False,Central Queensland University,4096.0,6875103,3688488.0,3186615.0,6875103.0
+3001,Charles Darwin University,2022,non-aligned,46.0,2.0,48.0,True,Charles Darwin University,2314.0,18205976,8041855.0,10164121.0,18205976.0
+3005,Charles Sturt University,2022,RUN,61.0,2.0,63.0,True,Charles Sturt University,8455.0,6653576,4489624.0,2163952.0,6653576.0
+2236,Curtin University,2022,ATN,265.0,38.0,303.0,False,Curtin University,10225.0,50218883,29273950.0,20944933.0,50218883.0
+3030,Deakin University,2022,ATN,297.0,21.0,318.0,False,Deakin University,13562.0,37132978,20839807.0,16293171.0,37132978.0
+2235,Edith Cowan University,2022,non-aligned,88.0,41.0,129.0,False,Edith Cowan University,6398.0,9870049,6411545.0,3458504.0,9870049.0
+2154,Federation University Australia,2022,RUN,39.0,2.0,41.0,True,Federation University Australia,3071.0,3633062,2572241.0,1060821.0,3633062.0
+3029,Flinders University,2022,IRU,125.0,7.0,132.0,False,Flinders University,5876.0,27011611,15217026.0,11794585.0,27011611.0
+3032,Griffith University,2022,IRU,269.0,54.0,323.0,False,Griffith University,10331.0,41470890,25154439.0,16316451.0,41470890.0
+1019,James Cook University,2022,IRU,110.0,17.0,127.0,False,James Cook University,4807.0,18513891,11195924.0,7317967.0,18513891.0
+3020,La Trobe University,2022,IRU,197.0,84.0,281.0,False,La Trobe University,8328.0,34441123,18453725.0,15987398.0,34441123.0
+3025,Macquarie University,2022,non-aligned,209.0,272.0,481.0,False,Macquarie University,9048.0,47352472,30316330.0,17036142.0,47352472.0
+3035,Monash University,2022,Go8,898.0,60.0,958.0,False,Monash University,24217.0,199664092,102424908.0,97239184.0,199664092.0
+1034,Murdoch University,2022,IRU,111.0,39.0,150.0,False,Murdoch University,4857.0,17329915,9827392.0,7502523.0,17329915.0
+3042,Queensland University of Technology,2022,non-aligned,328.0,86.0,414.0,False,Queensland University of Technology,11361.0,48384663,29068532.0,19316131.0,48384663.0
+3034,Royal Melbourne Institute of Technology,2022,ATN,349.0,35.0,384.0,False,Royal Melbourne Institute of Technology,18671.0,38172479,24817631.0,13354848.0,38172479.0
+3038,Southern Cross University,2022,RUN,37.0,8.0,45.0,False,Southern Cross University,4183.0,6153108,3326464.0,2826644.0,6153108.0
+2177,Swinburne University of Technology,2022,non-aligned,223.0,32.0,255.0,False,Swinburne University of Technology,7616.0,22787199,14242555.0,8544644.0,22787199.0
+3033,The Australian National University,2022,Go8,324.0,37.0,361.0,False,The Australian National University,6837.0,115213731,53648762.0,61564969.0,115213731.0
+3010,The University of Adelaide,2022,Go8,378.0,61.0,439.0,False,The University of Adelaide,7260.0,86963681,46169968.0,40793713.0,86963681.0
+3036,The University of Melbourne,2022,Go8,670.0,64.0,734.0,False,The University of Melbourne,21630.0,222931509,111813256.0,111118253.0,222931509.0
+3044,The University of Notre Dame Australia,2022,non-aligned,24.0,18.0,42.0,False,The University of Notre Dame Australia,2730.0,2183156,1702450.0,480706.0,2183156.0
+3019,The University of Queensland,2022,Go8,710.0,57.0,767.0,False,The University of Queensland,13930.0,191682874,100217285.0,91465589.0,191682874.0
+3040,The University of Sydney,2022,Go8,639.0,178.0,817.0,False,The University of Sydney,21113.0,178391184,90173615.0,88217569.0,178391184.0
+1055,The University of Western Australia,2022,Go8,321.0,28.0,349.0,False,The University of Western Australia,6376.0,85334005,42513528.0,42820477.0,85334005.0
+4449,Torrens University Australia,2022,non-aligned,10.0,2.0,12.0,True,Torrens University Australia,5765.0,403109,193670.0,209439.0,403109.0
+2241,University of Canberra,2022,IRU,48.0,5.0,53.0,False,University of Canberra,3801.0,8442763,4366091.0,4076672.0,8442763.0
+4331,University of Divinity,2022,non-aligned,13.0,0.0,13.0,False,University of Divinity,392.0,1105180,636254.0,468926.0,1105180.0
+3039,University of New England,2022,RUN,79.0,13.0,92.0,False,University of New England,3650.0,17409091,9261262.0,8147829.0,17409091.0
+3013,University of New South Wales,2022,Go8,690.0,97.0,787.0,False,University of New South Wales,17938.0,193565978,96402360.0,97163618.0,193565978.0
+3014,University of Newcastle,2022,ATN,284.0,12.0,296.0,False,University of Newcastle,7746.0,51244345,27539140.0,23705205.0,51244345.0
+3027,University of South Australia,2022,ATN,119.0,37.0,156.0,False,University of South Australia,7494.0,31891857,15858732.0,16033125.0,31891857.0
+2201,University of Southern Queensland,2022,RUN,117.0,20.0,137.0,False,University of Southern Queensland,3721.0,12246883,7807530.0,4439353.0,12246883.0
+3045,University of Tasmania,2022,non-aligned,222.0,17.0,239.0,False,University of Tasmania,12502.0,45790877,25859741.0,19931136.0,45790877.0
+3016,University of Technology Sydney,2022,ATN,313.0,37.0,350.0,False,University of Technology Sydney,11273.0,42575185,25973884.0,16601301.0,42575185.0
+3043,University of the Sunshine Coast,2022,RUN,56.0,6.0,62.0,False,University of the Sunshine Coast,2940.0,11382454,6211468.0,5170986.0,11382454.0
+1058,University of Wollongong,2022,non-aligned,219.0,35.0,254.0,False,University of Wollongong,7279.0,36898549,22728971.0,14169578.0,36898549.0
+3007,Victoria University,2022,non-aligned,77.0,24.0,101.0,False,Victoria University,5629.0,9550925,6504162.0,3046763.0,9550925.0
+3004,Western Sydney University,2022,IRU,127.0,67.0,194.0,False,Western Sydney University,11804.0,22321219,14151147.0,8170072.0,22321219.0
+3006,Australian Catholic University,2021,non-aligned,36.0,5.0,41.0,False,Australian Catholic University,7243.0,8899357,3968872.0,4930485.0,7011289.29754386
+2246,Batchelor Institute of Indigenous Tertiary Education,2021,non-aligned,2.0,0.0,2.0,True,Batchelor Institute of Indigenous Tertiary Education,2.0,434940,139526.0,295414.0,278970.07877291203
+3003,Bond University ,2021,non-aligned,31.0,2.0,33.0,True,Bond University ,1796.0,4468309,1846509.0,2621800.0,3536334.4350577397
+2200,Central Queensland University,2021,RUN,34.0,8.0,42.0,False,Central Queensland University,5269.0,9528892,3679941.0,5848951.0,6463772.1999053005
+3001,Charles Darwin University,2021,non-aligned,45.0,5.0,50.0,False,Charles Darwin University,2350.0,29063333,7766524.0,21296809.0,18067431.044732697
+3005,Charles Sturt University,2021,RUN,52.0,6.0,58.0,False,Charles Sturt University,9526.0,12258055,5998381.0,6259674.0,9195520.758130841
+2236,Curtin University,2021,ATN,277.0,56.0,333.0,False,Curtin University,10076.0,72099626,27825644.0,44273982.0,49101173.0186733
+3030,Deakin University,2021,ATN,282.0,25.0,307.0,False,Deakin University,16286.0,52346968,20453826.0,31893142.0,35587255.7411475
+2235,Edith Cowan University,2021,non-aligned,66.0,34.0,100.0,False,Edith Cowan University,7539.0,14078942,6679659.0,7399283.0,10399747.444986809
+2154,Federation University Australia,2021,RUN,46.0,2.0,48.0,True,Federation University Australia,4244.0,4854025,2273755.0,2580270.0,3677181.50688185
+3029,Flinders University,2021,IRU,165.0,6.0,171.0,False,Flinders University,7217.0,38410268,15336016.0,23074252.0,26432911.816145502
+3032,Griffith University,2021,IRU,280.0,48.0,328.0,False,Griffith University,11141.0,60950311,25290058.0,35660253.0,42420689.5301769
+1019,James Cook University,2021,IRU,102.0,6.0,108.0,False,James Cook University,5163.0,34361812,13828630.0,20533182.0,24889190.226268798
+3020,La Trobe University,2021,IRU,169.0,52.0,221.0,False,La Trobe University,9505.0,53682865,19474602.0,34208263.0,35926079.2216382
+3025,Macquarie University,2021,non-aligned,297.0,231.0,528.0,False,Macquarie University,10121.0,65806094,30649639.0,35156455.0,47372210.0603461
+3035,Monash University,2021,Go8,808.0,62.0,870.0,False,Monash University,25591.0,287039990,95438167.0,191601823.0,186291919.2597382
+1034,Murdoch University,2021,IRU,91.0,25.0,116.0,False,Murdoch University,5328.0,26863118,10246001.0,16617117.0,18115348.06419456
+3042,Queensland University of Technology,2021,non-aligned,323.0,120.0,443.0,False,Queensland University of Technology,12200.0,72857176,30830953.0,42026223.0,51691888.962143704
+3034,Royal Melbourne Institute of Technology,2021,ATN,340.0,37.0,377.0,False,Royal Melbourne Institute of Technology,19190.0,47926774,22010716.0,25916058.0,34394654.341820404
+3038,Southern Cross University,2021,RUN,48.0,8.0,56.0,False,Southern Cross University,4117.0,10084191,4119561.0,5964630.0,6988077.8359433
+2177,Swinburne University of Technology,2021,non-aligned,191.0,25.0,216.0,False,Swinburne University of Technology,8225.0,30220258,12706919.0,17513339.0,20899802.72617201
+3033,The Australian National University,2021,Go8,352.0,32.0,384.0,False,The Australian National University,6768.0,197456056,59495907.0,137960149.0,125843861.1643945
+3010,The University of Adelaide,2021,Go8,313.0,63.0,376.0,False,The University of Adelaide,8065.0,128741305,46850222.0,81891083.0,86233376.07389471
+3036,The University of Melbourne,2021,Go8,663.0,65.0,728.0,False,The University of Melbourne,22097.0,321081671,106567611.0,214514060.0,210019606.47759
+3044,The University of Notre Dame Australia,2021,non-aligned,34.0,24.0,58.0,False,The University of Notre Dame Australia,2261.0,2343962,1214150.0,1129812.0,1854937.887646053
+3019,The University of Queensland,2021,Go8,621.0,51.0,672.0,False,The University of Queensland,14952.0,287800613,97299757.0,190500856.0,188345673.11555588
+3040,The University of Sydney,2021,Go8,661.0,163.0,824.0,False,The University of Sydney,22376.0,274510360,91933059.0,182577301.0,179438325.4485111
+1055,The University of Western Australia,2021,Go8,277.0,34.0,311.0,False,The University of Western Australia,6510.0,132531355,46116371.0,86414984.0,87675165.1640991
+4449,Torrens University Australia,2021,non-aligned,2.0,2.0,4.0,True,Torrens University Australia,5890.0,550210,130751.0,419459.0,330958.218572399
+2241,University of Canberra,2021,IRU,55.0,6.0,61.0,False,University of Canberra,3847.0,13307644,5118839.0,8188805.0,9013756.93357188
+4331,University of Divinity,2021,non-aligned,9.0,2.0,11.0,True,University of Divinity,346.0,2007726,819980.0,1187746.0,1448099.8447471191
+3039,University of New England,2021,RUN,97.0,18.0,115.0,False,University of New England,3801.0,24723640,9083459.0,15640181.0,16605152.677680481
+3013,University of New South Wales,2021,Go8,678.0,97.0,775.0,False,University of New South Wales,17248.0,286305869,94094591.0,192211278.0,185604379.2869418
+3014,University of Newcastle,2021,ATN,331.0,15.0,346.0,False,University of Newcastle,7483.0,74205922,25840587.0,48365335.0,49100499.5263965
+3027,University of South Australia,2021,ATN,137.0,34.0,171.0,False,University of South Australia,7981.0,53827128,19005310.0,34821818.0,35751858.7851567
+2201,University of Southern Queensland,2021,RUN,116.0,19.0,135.0,False,University of Southern Queensland,4152.0,15462126,6030159.0,9431967.0,10392257.5861535
+3045,University of Tasmania,2021,non-aligned,208.0,16.0,224.0,False,University of Tasmania,11176.0,68293104,25397277.0,42895827.0,46632407.1625122
+3016,University of Technology Sydney,2021,ATN,359.0,26.0,385.0,False,University of Technology Sydney,8411.0,54204501,20195726.0,34008775.0,36167032.9861186
+3043,University of the Sunshine Coast,2021,RUN,60.0,8.0,68.0,False,University of the Sunshine Coast,3156.0,16348914,4597473.0,11751441.0,10048246.971083991
+1058,University of Wollongong,2021,non-aligned,256.0,33.0,289.0,False,University of Wollongong,8513.0,56192274,24183666.0,32008608.0,39577282.650396004
+3007,Victoria University,2021,non-aligned,104.0,9.0,113.0,False,Victoria University,8333.0,14689845,7385389.0,7304456.0,11158047.066782389
+3004,Western Sydney University,2021,IRU,198.0,89.0,287.0,False,Western Sydney University,8225.0,30061632,12467369.0,17594263.0,20898788.35986311
+3006,Australian Catholic University,2020,non-aligned,45.0,8.0,53.0,False,Australian Catholic University,7243.0,7079808,3933890.0,3145918.0,7079808.0
+2246,Batchelor Institute of Indigenous Tertiary Education,2020,non-aligned,2.0,2.0,4.0,True,Batchelor Institute of Indigenous Tertiary Education,5.0,250300,122078.0,128222.0,250300.0
+3003,Bond University ,2020,non-aligned,18.0,2.0,20.0,True,Bond University ,1373.0,3626847,1879535.0,1747312.0,3626847.0
+2200,Central Queensland University,2020,RUN,31.0,12.0,43.0,False,Central Queensland University,6075.0,6308179,3670417.0,2637762.0,6308179.0
+3001,Charles Darwin University,2020,non-aligned,39.0,5.0,44.0,False,Charles Darwin University,2197.0,18298120,7646784.0,10651336.0,18298120.0
+3005,Charles Sturt University,2020,RUN,74.0,2.0,76.0,True,Charles Sturt University,10377.0,9583963,6278059.0,3305904.0,9583963.0
+2236,Curtin University,2020,ATN,301.0,47.0,348.0,False,Curtin University,9787.0,48012801,27169347.0,20843454.0,48012801.0
+3030,Deakin University,2020,ATN,229.0,18.0,247.0,False,Deakin University,13693.0,34172636,19988998.0,14183638.0,34172636.0
+2235,Edith Cowan University,2020,non-aligned,82.0,32.0,114.0,False,Edith Cowan University,6398.0,10594045,6747402.0,3846643.0,10594045.0
+2154,Federation University Australia,2020,RUN,52.0,2.0,54.0,True,Federation University Australia,4407.0,3647296,2196126.0,1451170.0,3647296.0
+3029,Flinders University,2020,IRU,159.0,11.0,170.0,False,Flinders University,4862.0,26350551,15105973.0,11244578.0,26350551.0
+3032,Griffith University,2020,IRU,273.0,58.0,331.0,False,Griffith University,10107.0,41427329,24663393.0,16763936.0,41427329.0
+1019,James Cook University,2020,IRU,105.0,8.0,113.0,False,James Cook University,4836.0,25580615,14143783.0,11436832.0,25580615.0
+3020,La Trobe University,2020,IRU,172.0,17.0,189.0,False,La Trobe University,9229.0,35345404,18931954.0,16413450.0,35345404.0
+3025,Macquarie University,2020,non-aligned,258.0,197.0,455.0,False,Macquarie University,9084.0,45431482,29620984.0,15810498.0,45431482.0
+3035,Monash University,2020,Go8,770.0,73.0,843.0,False,Monash University,23891.0,176665786,91723989.0,84941797.0,176665786.0
+1034,Murdoch University,2020,IRU,94.0,15.0,109.0,False,Murdoch University,5140.0,17299284,9976344.0,7322940.0,17299284.0
+3042,Queensland University of Technology,2020,non-aligned,333.0,97.0,430.0,False,Queensland University of Technology,10943.0,52474025,30903416.0,21570609.0,52474025.0
+3034,Royal Melbourne Institute of Technology,2020,ATN,334.0,21.0,355.0,False,Royal Melbourne Institute of Technology,18647.0,33425353,21525865.0,11899488.0,33425353.0
+3038,Southern Cross University,2020,RUN,34.0,5.0,39.0,False,Southern Cross University,3024.0,7109163,4204354.0,2904809.0,7109163.0
+2177,Swinburne University of Technology,2020,non-aligned,145.0,24.0,169.0,False,Swinburne University of Technology,8116.0,19131951,11849456.0,7282495.0,19131951.0
+3033,The Australian National University,2020,Go8,309.0,32.0,341.0,False,The Australian National University,7280.0,126141524,59083721.0,67057803.0,126141524.0
+3010,The University of Adelaide,2020,Go8,345.0,75.0,420.0,False,The University of Adelaide,6957.0,86300278,46680414.0,39619864.0,86300278.0
+3036,The University of Melbourne,2020,Go8,804.0,97.0,901.0,False,The University of Melbourne,21078.0,210568602,103597249.0,106971353.0,210568602.0
+3044,The University of Notre Dame Australia,2020,non-aligned,42.0,15.0,57.0,False,The University of Notre Dame Australia,2714.0,1714856,1052269.0,662587.0,1714856.0
+3019,The University of Queensland,2020,Go8,740.0,69.0,809.0,False,The University of Queensland,13133.0,183472303,95936204.0,87536099.0,183472303.0
+3040,The University of Sydney,2020,Go8,589.0,142.0,731.0,False,The University of Sydney,16765.0,178474984,93517054.0,84957930.0,178474984.0
+1055,The University of Western Australia,2020,Go8,284.0,27.0,311.0,False,The University of Western Australia,6267.0,88869768,46593725.0,42276043.0,88869768.0
+4449,Torrens University Australia,2020,non-aligned,2.0,0.0,2.0,True,Torrens University Australia,5137.0,293490,101887.0,191603.0,293490.0
+2241,University of Canberra,2020,IRU,35.0,7.0,42.0,False,University of Canberra,3920.0,8704000,5022127.0,3681873.0,8704000.0
+4331,University of Divinity,2020,non-aligned,5.0,2.0,7.0,True,University of Divinity,443.0,1481157,831669.0,649488.0,1481157.0
+3039,University of New England,2020,RUN,86.0,16.0,102.0,False,University of New England,3652.0,16661531,9114384.0,7547147.0,16661531.0
+3013,University of New South Wales,2020,Go8,546.0,116.0,662.0,False,University of New South Wales,15491.0,177882098,91086046.0,86796052.0,177882098.0
+3014,University of Newcastle,2020,ATN,281.0,16.0,297.0,False,University of Newcastle,7526.0,48341662,25194502.0,23147160.0,48341662.0
+3027,University of South Australia,2020,ATN,129.0,26.0,155.0,False,University of South Australia,7392.0,36525751,19622443.0,16903308.0,36525751.0
+2201,University of Southern Queensland,2020,RUN,103.0,11.0,114.0,False,University of Southern Queensland,4193.0,9274403,5569228.0,3705175.0,9274403.0
+3045,University of Tasmania,2020,non-aligned,226.0,12.0,238.0,False,University of Tasmania,10043.0,46966924,25009391.0,21957533.0,46966924.0
+3016,University of Technology Sydney,2020,ATN,306.0,25.0,331.0,False,University of Technology Sydney,11960.0,33010743,18602644.0,14408099.0,33010743.0
+3043,University of the Sunshine Coast,2020,RUN,46.0,7.0,53.0,False,University of the Sunshine Coast,2952.0,8424341,3739106.0,4685235.0,8424341.0
+1058,University of Wollongong,2020,non-aligned,213.0,32.0,245.0,False,University of Wollongong,8271.0,39430195,23692889.0,15737306.0,39430195.0
+3007,Victoria University,2020,non-aligned,104.0,17.0,121.0,False,Victoria University,7657.0,11397507,7496506.0,3901001.0,11397507.0
+3004,Western Sydney University,2020,IRU,132.0,93.0,225.0,False,Western Sydney University,8597.0,19927886,11745665.0,8182221.0,19927886.0
+3006,Australian Catholic University,2019,non-aligned,53.0,7.0,60.0,False,Australian Catholic University,8236.0,7109846,3856906.0,3252940.0,7109846.0
+2246,Batchelor Institute of Indigenous Tertiary Education,2019,non-aligned,2.0,0.0,2.0,True,Batchelor Institute of Indigenous Tertiary Education,2.0,259701,127117.0,132584.0,259701.0
+3003,Bond University ,2019,non-aligned,22.0,2.0,24.0,True,Bond University ,1898.0,3689163,1882409.0,1806754.0,3689163.0
+2200,Central Queensland University,2019,RUN,37.0,11.0,48.0,False,Central Queensland University,5523.0,6048449,3600656.0,2447793.0,6048449.0
+3001,Charles Darwin University,2019,non-aligned,40.0,8.0,48.0,False,Charles Darwin University,1824.0,18243149,7496422.0,10746727.0,18243149.0
+3005,Charles Sturt University,2019,RUN,69.0,2.0,71.0,True,Charles Sturt University,9488.0,9775148,6356780.0,3418368.0,9775148.0
+2236,Curtin University,2019,ATN,282.0,43.0,325.0,False,Curtin University,9751.0,46653491,26300178.0,20353313.0,46653491.0
+3030,Deakin University,2019,ATN,243.0,22.0,265.0,False,Deakin University,13227.0,32777494,19751088.0,13026406.0,32777494.0
+2235,Edith Cowan University,2019,non-aligned,70.0,38.0,108.0,False,Edith Cowan University,5747.0,10750619,6773116.0,3977503.0,10750619.0
+2154,Federation University Australia,2019,RUN,32.0,8.0,40.0,False,Federation University Australia,3418.0,3624742,2124204.0,1500538.0,3624742.0
+3029,Flinders University,2019,IRU,170.0,11.0,181.0,False,Flinders University,6508.0,26798975,15171865.0,11627110.0,26798975.0
+3032,Griffith University,2019,IRU,299.0,58.0,357.0,False,Griffith University,10043.0,41096997,23905484.0,17191513.0,41096997.0
+1019,James Cook University,2019,IRU,125.0,5.0,130.0,False,James Cook University,4817.0,26103331,14277427.0,11825904.0,26103331.0
+3020,La Trobe University,2019,IRU,218.0,12.0,230.0,False,La Trobe University,9022.0,34233061,18340530.0,15892531.0,34233061.0
+3025,Macquarie University,2019,non-aligned,287.0,274.0,561.0,False,Macquarie University,9979.0,44258939,28464054.0,15794885.0,44258939.0
+3035,Monash University,2019,Go8,791.0,65.0,856.0,False,Monash University,23758.0,169985480,88128795.0,81856685.0,169985480.0
+1034,Murdoch University,2019,IRU,89.0,14.0,103.0,False,Murdoch University,4651.0,17313547,9741486.0,7572061.0,17313547.0
+3042,Queensland University of Technology,2019,non-aligned,335.0,91.0,426.0,False,Queensland University of Technology,11935.0,52571879,30583173.0,21988706.0,52571879.0
+3034,Royal Melbourne Institute of Technology,2019,ATN,326.0,31.0,357.0,False,Royal Melbourne Institute of Technology,19413.0,33438797,21145932.0,12292865.0,33438797.0
+3038,Southern Cross University,2019,RUN,33.0,2.0,35.0,True,Southern Cross University,3554.0,7244773,4241145.0,3003628.0,7244773.0
+2177,Swinburne University of Technology,2019,non-aligned,171.0,19.0,190.0,False,Swinburne University of Technology,7556.0,17874038,11273569.0,6600469.0,17874038.0
+3033,The Australian National University,2019,Go8,371.0,33.0,404.0,False,The Australian National University,7721.0,123185967,57768490.0,65417477.0,123185967.0
+3010,The University of Adelaide,2019,Go8,330.0,72.0,402.0,False,The University of Adelaide,6724.0,85358197,46227219.0,39130978.0,85358197.0
+3036,The University of Melbourne,2019,Go8,854.0,112.0,966.0,False,The University of Melbourne,22390.0,204472821,99880895.0,104591926.0,204472821.0
+3044,The University of Notre Dame Australia,2019,non-aligned,19.0,23.0,42.0,False,The University of Notre Dame Australia,2272.0,1547370,862242.0,685128.0,1547370.0
+3019,The University of Queensland,2019,Go8,765.0,74.0,839.0,False,The University of Queensland,13865.0,182265946,95788078.0,86477868.0,182265946.0
+3040,The University of Sydney,2019,Go8,698.0,158.0,856.0,False,The University of Sydney,17766.0,179952223,95918046.0,84034177.0,179952223.0
+1055,The University of Western Australia,2019,Go8,285.0,40.0,325.0,False,The University of Western Australia,6827.0,91119779,47405537.0,43714242.0,91119779.0
+4449,Torrens University Australia,2019,non-aligned,2.0,0.0,2.0,True,Torrens University Australia,2910.0,227845,69046.0,158799.0,227845.0
+2241,University of Canberra,2019,IRU,59.0,2.0,61.0,True,University of Canberra,3643.0,8838702,5031575.0,3807127.0,8838702.0
+4331,University of Divinity,2019,non-aligned,18.0,2.0,20.0,True,University of Divinity,631.0,1559767,888184.0,671583.0,1559767.0
+3039,University of New England,2019,RUN,80.0,13.0,93.0,False,University of New England,3854.0,16457931,9093954.0,7363977.0,16457931.0
+3013,University of New South Wales,2019,Go8,705.0,127.0,832.0,False,University of New South Wales,16200.0,171497997,88663435.0,82834562.0,171497997.0
+3014,University of Newcastle,2019,ATN,242.0,10.0,252.0,False,University of Newcastle,6657.0,47047392,24388898.0,22658494.0,47047392.0
+3027,University of South Australia,2019,ATN,120.0,17.0,137.0,False,University of South Australia,6986.0,35631691,19633827.0,15997864.0,35631691.0
+2201,University of Southern Queensland,2019,RUN,91.0,13.0,104.0,False,University of Southern Queensland,3681.0,8616962,5309944.0,3307018.0,8616962.0
+3045,University of Tasmania,2019,non-aligned,256.0,21.0,277.0,False,University of Tasmania,10126.0,47368888,24664377.0,22704511.0,47368888.0
+3016,University of Technology Sydney,2019,ATN,292.0,25.0,317.0,False,University of Technology Sydney,11964.0,30648528,17385148.0,13263380.0,30648528.0
+3043,University of the Sunshine Coast,2019,RUN,77.0,10.0,87.0,False,University of the Sunshine Coast,3080.0,7073516,3112889.0,3960627.0,7073516.0
+1058,University of Wollongong,2019,non-aligned,235.0,38.0,273.0,False,University of Wollongong,7746.0,37693648,22840259.0,14853389.0,37693648.0
+3007,Victoria University,2019,non-aligned,96.0,11.0,107.0,False,Victoria University,7039.0,11508114,7474404.0,4033710.0,11508114.0
+3004,Western Sydney University,2019,IRU,146.0,87.0,233.0,False,Western Sydney University,9512.0,19174253,11134979.0,8039274.0,19174253.0
+3006,Australian Catholic University,2018,non-aligned,70.0,10.0,80.0,False,Australian Catholic University,7358.0,7194818,3770671.0,3424147.0,7194818.0
+2246,Batchelor Institute of Indigenous Tertiary Education,2018,non-aligned,0.0,2.0,2.0,True,Batchelor Institute of Indigenous Tertiary Education,,287669,148107.0,139562.0,287669.0
+3003,Bond University ,2018,non-aligned,25.0,2.0,27.0,True,Bond University ,1728.0,3794841,1892995.0,1901846.0,3794841.0
+2200,Central Queensland University,2018,RUN,35.0,13.0,48.0,False,Central Queensland University,4275.0,5781826,3404329.0,2377497.0,5781826.0
+3001,Charles Darwin University,2018,non-aligned,26.0,7.0,33.0,False,Charles Darwin University,1708.0,17166591,7267253.0,9899338.0,17166591.0
+3005,Charles Sturt University,2018,RUN,77.0,2.0,79.0,True,Charles Sturt University,9534.0,9977098,6378816.0,3598282.0,9977098.0
+2236,Curtin University,2018,ATN,279.0,30.0,309.0,False,Curtin University,9451.0,45602889,25859194.0,19743695.0,45602889.0
+3030,Deakin University,2018,ATN,193.0,16.0,209.0,False,Deakin University,11973.0,31298257,19598296.0,11699961.0,31298257.0
+2235,Edith Cowan University,2018,non-aligned,78.0,36.0,114.0,False,Edith Cowan University,5774.0,11292118,7105273.0,4186845.0,11292118.0
+2154,Federation University Australia,2018,RUN,35.0,9.0,44.0,False,Federation University Australia,2785.0,3749191,2169677.0,1579514.0,3749191.0
+3029,Flinders University,2018,IRU,175.0,8.0,183.0,False,Flinders University,5998.0,27847944,15608881.0,12239063.0,27847944.0
+3032,Griffith University,2018,IRU,286.0,44.0,330.0,False,Griffith University,10204.0,40451111,23169577.0,17281534.0,40451111.0
+1019,James Cook University,2018,IRU,103.0,5.0,108.0,False,James Cook University,4655.0,26876338,14428018.0,12448320.0,26876338.0
+3020,La Trobe University,2018,IRU,219.0,15.0,234.0,False,La Trobe University,9087.0,33442256,18381832.0,15060424.0,33442256.0
+3025,Macquarie University,2018,non-aligned,288.0,268.0,556.0,False,Macquarie University,10066.0,43897312,27882585.0,16014727.0,43897312.0
+3035,Monash University,2018,Go8,805.0,77.0,882.0,False,Monash University,21862.0,170346130,87173023.0,83173107.0,170346130.0
+1034,Murdoch University,2018,IRU,100.0,15.0,115.0,False,Murdoch University,4852.0,17819166,9848575.0,7970591.0,17819166.0
+3042,Queensland University of Technology,2018,non-aligned,322.0,115.0,437.0,False,Queensland University of Technology,11588.0,53587469,30990812.0,22596657.0,53587469.0
+3034,Royal Melbourne Institute of Technology,2018,ATN,260.0,36.0,296.0,False,Royal Melbourne Institute of Technology,18737.0,34204805,21264947.0,12939858.0,34204805.0
+3038,Southern Cross University,2018,RUN,38.0,8.0,46.0,False,Southern Cross University,3078.0,7517808,4356094.0,3161714.0,7517808.0
+2177,Swinburne University of Technology,2018,non-aligned,159.0,26.0,185.0,False,Swinburne University of Technology,7465.0,18053570,11474972.0,6578598.0,18053570.0
+3033,The Australian National University,2018,Go8,361.0,32.0,393.0,False,The Australian National University,7534.0,120240294,57139186.0,63101108.0,120240294.0
+3010,The University of Adelaide,2018,Go8,339.0,61.0,400.0,False,The University of Adelaide,7009.0,88054687,46864184.0,41190503.0,88054687.0
+3036,The University of Melbourne,2018,Go8,873.0,148.0,1021.0,False,The University of Melbourne,21388.0,197305438,98127748.0,99177690.0,197305438.0
+3044,The University of Notre Dame Australia,2018,non-aligned,31.0,29.0,60.0,False,The University of Notre Dame Australia,3075.0,1550538,829351.0,721187.0,1550538.0
+3019,The University of Queensland,2018,Go8,579.0,69.0,648.0,False,The University of Queensland,12982.0,187021523,96436308.0,90585215.0,187021523.0
+3040,The University of Sydney,2018,Go8,315.0,88.0,403.0,False,The University of Sydney,16549.0,185555796,97508015.0,88047781.0,185555796.0
+1055,The University of Western Australia,2018,Go8,287.0,51.0,338.0,False,The University of Western Australia,6814.0,94471933,48456942.0,46014991.0,94471933.0
+4449,Torrens University Australia,2018,non-aligned,2.0,2.0,4.0,True,Torrens University Australia,2826.0,110830,45776.0,65054.0,110830.0
+2241,University of Canberra,2018,IRU,66.0,8.0,74.0,False,University of Canberra,3610.0,9148003,5140501.0,4007502.0,9148003.0
+4331,University of Divinity,2018,non-aligned,9.0,2.0,11.0,True,University of Divinity,532.0,1575419,909458.0,665961.0,1575419.0
+3039,University of New England,2018,RUN,76.0,10.0,86.0,False,University of New England,3630.0,16344368,9072274.0,7272094.0,16344368.0
+3013,University of New South Wales,2018,Go8,663.0,97.0,760.0,False,University of New South Wales,15244.0,169425334,89661819.0,79763515.0,169425334.0
+3014,University of Newcastle,2018,ATN,253.0,13.0,266.0,False,University of Newcastle,6467.0,46241121,24081639.0,22159482.0,46241121.0
+3027,University of South Australia,2018,ATN,144.0,15.0,159.0,False,University of South Australia,7180.0,35070473,19756278.0,15314195.0,35070473.0
+2201,University of Southern Queensland,2018,RUN,79.0,5.0,84.0,False,University of Southern Queensland,4003.0,8576565,5294434.0,3282131.0,8576565.0
+3045,University of Tasmania,2018,non-aligned,204.0,21.0,225.0,False,University of Tasmania,9751.0,48079915,24642801.0,23437114.0,48079915.0
+3016,University of Technology Sydney,2018,ATN,251.0,35.0,286.0,False,University of Technology Sydney,11337.0,29577152,17081143.0,12496009.0,29577152.0
+3043,University of the Sunshine Coast,2018,RUN,57.0,12.0,69.0,False,University of the Sunshine Coast,3035.0,5999194,2776828.0,3222366.0,5999194.0
+1058,University of Wollongong,2018,non-aligned,239.0,52.0,291.0,False,University of Wollongong,7695.0,36485039,22740798.0,13744241.0,36485039.0
+3007,Victoria University,2018,non-aligned,91.0,12.0,103.0,False,Victoria University,6676.0,11724598,7478587.0,4246011.0,11724598.0
+3004,Western Sydney University,2018,IRU,142.0,73.0,215.0,False,Western Sydney University,9001.0,18351729,10865765.0,7485964.0,18351729.0
+3006,Australian Catholic University,2017,non-aligned,39.0,7.0,46.0,False,Australian Catholic University,5815.0,7083808,3540319.0,3543489.0,7083808.0
+2246,Batchelor Institute of Indigenous Tertiary Education,2017,non-aligned,2.0,0.0,2.0,True,Batchelor Institute of Indigenous Tertiary Education,2.0,329589,185163.0,144426.0,329589.0
+3003,Bond University ,2017,non-aligned,21.0,9.0,30.0,False,Bond University ,1835.0,3818892,1850761.0,1968131.0,3818892.0
+2200,Central Queensland University,2017,RUN,47.0,8.0,55.0,False,Central Queensland University,3835.0,5805057,3344697.0,2460360.0,5805057.0
+3001,Charles Darwin University,2017,non-aligned,27.0,8.0,35.0,False,Charles Darwin University,1658.0,16196990,6968693.0,9228297.0,16196990.0
+3005,Charles Sturt University,2017,RUN,86.0,6.0,92.0,False,Charles Sturt University,8949.0,9891873,6168180.0,3723693.0,9891873.0
+2236,Curtin University,2017,ATN,302.0,41.0,343.0,False,Curtin University,10546.0,44098408,25318208.0,18780200.0,44098408.0
+3030,Deakin University,2017,ATN,214.0,9.0,223.0,False,Deakin University,9539.0,30310136,19018960.0,11291176.0,30310136.0
+2235,Edith Cowan University,2017,non-aligned,71.0,33.0,104.0,False,Edith Cowan University,6068.0,11637219,7304450.0,4332769.0,11637219.0
+2154,Federation University Australia,2017,RUN,31.0,2.0,33.0,True,Federation University Australia,3221.0,3863999,2229434.0,1634565.0,3863999.0
+3029,Flinders University,2017,IRU,119.0,10.0,129.0,False,Flinders University,5914.0,28007339,15603441.0,12403898.0,28007339.0
+3032,Griffith University,2017,IRU,310.0,46.0,356.0,False,Griffith University,10682.0,38818471,22303418.0,16515053.0,38818471.0
+1019,James Cook University,2017,IRU,130.0,8.0,138.0,False,James Cook University,4607.0,27049729,14167548.0,12882181.0,27049729.0
+3020,La Trobe University,2017,IRU,197.0,24.0,221.0,False,La Trobe University,8534.0,31745202,18188206.0,13556996.0,31745202.0
+3025,Macquarie University,2017,non-aligned,286.0,290.0,576.0,False,Macquarie University,9310.0,41569920,26183178.0,15386742.0,41569920.0
+3035,Monash University,2017,Go8,779.0,97.0,876.0,False,Monash University,19662.0,165579081,84211508.0,81367573.0,165579081.0
+1034,Murdoch University,2017,IRU,98.0,16.0,114.0,False,Murdoch University,5305.0,18287694,10039304.0,8248390.0,18287694.0
+3042,Queensland University of Technology,2017,non-aligned,330.0,95.0,425.0,False,Queensland University of Technology,11942.0,52746006,30847741.0,21898265.0,52746006.0
+3034,Royal Melbourne Institute of Technology,2017,ATN,305.0,37.0,342.0,False,Royal Melbourne Institute of Technology,17799.0,34676492,21285641.0,13390851.0,34676492.0
+3038,Southern Cross University,2017,RUN,48.0,8.0,56.0,False,Southern Cross University,2837.0,7688850,4416941.0,3271909.0,7688850.0
+2177,Swinburne University of Technology,2017,non-aligned,133.0,9.0,142.0,False,Swinburne University of Technology,6996.0,18444969,11637087.0,6807882.0,18444969.0
+3033,The Australian National University,2017,Go8,434.0,40.0,474.0,False,The Australian National University,6835.0,115546110,55887941.0,59658169.0,115546110.0
+3010,The University of Adelaide,2017,Go8,365.0,50.0,415.0,False,The University of Adelaide,6937.0,89195340,46569225.0,42626115.0,89195340.0
+3036,The University of Melbourne,2017,Go8,716.0,109.0,825.0,False,The University of Melbourne,19986.0,191256995,95762452.0,95494543.0,191256995.0
+3044,The University of Notre Dame Australia,2017,non-aligned,23.0,14.0,37.0,False,The University of Notre Dame Australia,2656.0,1565690,819367.0,746323.0,1565690.0
+3019,The University of Queensland,2017,Go8,680.0,81.0,761.0,False,The University of Queensland,12580.0,184605997,94632784.0,89973213.0,184605997.0
+3040,The University of Sydney,2017,Go8,701.0,190.0,891.0,False,The University of Sydney,15453.0,184626389,97465365.0,87161024.0,184626389.0
+1055,The University of Western Australia,2017,Go8,298.0,59.0,357.0,False,The University of Western Australia,6896.0,94929527,47829133.0,47100394.0,94929527.0
+4449,Torrens University Australia,2017,non-aligned,2.0,2.0,4.0,True,Torrens University Australia,929.0,50442,38872.0,11570.0,50442.0
+2241,University of Canberra,2017,IRU,60.0,6.0,66.0,False,University of Canberra,3956.0,9292422,5145247.0,4147175.0,9292422.0
+4331,University of Divinity,2017,non-aligned,10.0,2.0,12.0,True,University of Divinity,392.0,1514531,934113.0,580418.0,1514531.0
+3039,University of New England,2017,RUN,96.0,12.0,108.0,False,University of New England,3639.0,16338615,8913576.0,7425039.0,16338615.0
+3013,University of New South Wales,2017,Go8,632.0,105.0,737.0,False,University of New South Wales,13010.0,169061785,90616087.0,78445698.0,169061785.0
+3014,University of Newcastle,2017,ATN,230.0,18.0,248.0,False,University of Newcastle,7193.0,44439735,23386843.0,21052892.0,44439735.0
+3027,University of South Australia,2017,ATN,195.0,15.0,210.0,False,University of South Australia,7378.0,35694872,19846932.0,15847940.0,35694872.0
+2201,University of Southern Queensland,2017,RUN,72.0,6.0,78.0,False,University of Southern Queensland,4096.0,8313305,5244951.0,3068354.0,8313305.0
+3045,University of Tasmania,2017,non-aligned,215.0,15.0,230.0,False,University of Tasmania,7945.0,46477084,24257491.0,22219593.0,46477084.0
+3016,University of Technology Sydney,2017,ATN,219.0,25.0,244.0,False,University of Technology Sydney,10652.0,28346525,16689029.0,11657496.0,28346525.0
+3043,University of the Sunshine Coast,2017,RUN,34.0,2.0,36.0,True,University of the Sunshine Coast,2419.0,5155268,2428891.0,2726377.0,5155268.0
+1058,University of Wollongong,2017,non-aligned,241.0,39.0,280.0,False,University of Wollongong,7063.0,36797735,22680303.0,14117432.0,36797735.0
+3007,Victoria University,2017,non-aligned,112.0,9.0,121.0,False,Victoria University,7007.0,11704499,7310502.0,4393997.0,11704499.0
+3004,Western Sydney University,2017,IRU,133.0,92.0,225.0,False,Western Sydney University,9163.0,18258370,10633202.0,7625168.0,18258370.0
+3006,Australian Catholic University,2016,non-aligned,57.0,8.0,65.0,False,Australian Catholic University,6008.0,6935680,0.0,3468732.0,6935680.0
+3003,Bond University ,2016,non-aligned,23.0,16.0,39.0,False,Bond University ,1846.0,3851835,0.0,1926609.0,3851835.0
+2200,Central Queensland University,2016,RUN,57.0,6.0,63.0,False,Central Queensland University,3889.0,5951472,0.0,2408454.0,5951472.0
+3001,Charles Darwin University,2016,non-aligned,32.0,9.0,41.0,False,Charles Darwin University,1563.0,14558158,0.0,7902388.0,14558158.0
+3005,Charles Sturt University,2016,RUN,99.0,9.0,108.0,False,Charles Sturt University,9393.0,9711613,0.0,3645134.0,9711613.0
+2236,Curtin University,2016,ATN,261.0,46.0,307.0,False,Curtin University,11157.0,41290539,0.0,16538140.0,41290539.0
+3030,Deakin University,2016,ATN,259.0,14.0,273.0,False,Deakin University,10458.0,29100993,0.0,11052965.0,29100993.0
+2235,Edith Cowan University,2016,non-aligned,67.0,23.0,90.0,False,Edith Cowan University,5428.0,11481866,0.0,4241360.0,11481866.0
+2154,Federation University Australia,2016,RUN,24.0,2.0,26.0,True,Federation University Australia,3198.0,3994058,0.0,1600080.0,3994058.0
+3029,Flinders University,2016,IRU,172.0,13.0,185.0,False,Flinders University,6073.0,27669249,0.0,11920937.0,27669249.0
+3032,Griffith University,2016,IRU,333.0,21.0,354.0,False,Griffith University,10809.0,38068583,0.0,15741710.0,38068583.0
+1019,James Cook University,2016,IRU,134.0,10.0,144.0,False,James Cook University,4100.0,25086480,0.0,11418948.0,25086480.0
+3020,La Trobe University,2016,IRU,181.0,21.0,202.0,False,La Trobe University,8875.0,29456891,0.0,11510981.0,29456891.0
+3025,Macquarie University,2016,non-aligned,284.0,254.0,538.0,False,Macquarie University,8470.0,39545845,0.0,15062126.0,39545845.0
+3035,Monash University,2016,Go8,716.0,94.0,810.0,False,Monash University,18023.0,155160168,0.0,74599725.0,155160168.0
+1034,Murdoch University,2016,IRU,110.0,14.0,124.0,False,Murdoch University,5565.0,18641169,0.0,8074373.0,18641169.0
+3042,Queensland University of Technology,2016,non-aligned,303.0,128.0,431.0,False,Queensland University of Technology,11543.0,50167105,0.0,19629158.0,50167105.0
+3034,Royal Melbourne Institute of Technology,2016,ATN,246.0,34.0,280.0,False,Royal Melbourne Institute of Technology,16731.0,33378279,0.0,12288157.0,33378279.0
+3038,Southern Cross University,2016,RUN,60.0,6.0,66.0,False,Southern Cross University,2471.0,7882839,0.0,3202881.0,7882839.0
+2177,Swinburne University of Technology,2016,non-aligned,121.0,11.0,132.0,False,Swinburne University of Technology,6668.0,18390724,0.0,6664255.0,18390724.0
+3033,The Australian National University,2016,Go8,371.0,33.0,404.0,False,The Australian National University,6021.0,105207986,0.0,50985347.0,105207986.0
+3010,The University of Adelaide,2016,Go8,333.0,72.0,405.0,False,The University of Adelaide,6941.0,87326232,0.0,41726828.0,87326232.0
+3036,The University of Melbourne,2016,Go8,755.0,146.0,901.0,False,The University of Melbourne,19285.0,185051844,0.0,90001835.0,185051844.0
+3044,The University of Notre Dame Australia,2016,non-aligned,8.0,15.0,23.0,False,The University of Notre Dame Australia,2605.0,1516024,0.0,730578.0,1516024.0
+3019,The University of Queensland,2016,Go8,731.0,91.0,822.0,False,The University of Queensland,12045.0,176655314,0.0,84804893.0,176655314.0
+3040,The University of Sydney,2016,Go8,679.0,194.0,873.0,False,The University of Sydney,14211.0,180905301,0.0,83501214.0,180905301.0
+1055,The University of Western Australia,2016,Go8,349.0,48.0,397.0,False,The University of Western Australia,7299.0,91319416,0.0,43784634.0,91319416.0
+2241,University of Canberra,2016,IRU,65.0,2.0,67.0,True,University of Canberra,4022.0,9288863,0.0,4059682.0,9288863.0
+4331,University of Divinity,2016,non-aligned,18.0,2.0,20.0,True,University of Divinity,446.0,1524294,0.0,471622.0,1524294.0
+3039,University of New England,2016,RUN,111.0,11.0,122.0,False,University of New England,3326.0,15777898,0.0,6867208.0,15777898.0
+3013,University of New South Wales,2016,Go8,531.0,99.0,630.0,False,University of New South Wales,12309.0,164081786,0.0,73405081.0,164081786.0
+3014,University of Newcastle,2016,ATN,228.0,13.0,241.0,False,University of Newcastle,6985.0,41325807,0.0,18521770.0,41325807.0
+3027,University of South Australia,2016,ATN,199.0,10.0,209.0,False,University of South Australia,7339.0,34717915,0.0,14681239.0,34717915.0
+2201,University of Southern Queensland,2016,RUN,79.0,6.0,85.0,False,University of Southern Queensland,4472.0,8273227,0.0,2974588.0,8273227.0
+3045,University of Tasmania,2016,non-aligned,198.0,22.0,220.0,False,University of Tasmania,6925.0,43188276,0.0,19035741.0,43188276.0
+3016,University of Technology Sydney,2016,ATN,178.0,28.0,206.0,False,University of Technology Sydney,10126.0,27045701,0.0,10688454.0,27045701.0
+3043,University of the Sunshine Coast,2016,RUN,28.0,6.0,34.0,False,University of the Sunshine Coast,2048.0,4761828,0.0,2488112.0,4761828.0
+1058,University of Wollongong,2016,non-aligned,235.0,40.0,275.0,False,University of Wollongong,6970.0,36142266,0.0,13819595.0,36142266.0
+3007,Victoria University,2016,non-aligned,118.0,8.0,126.0,False,Victoria University,7387.0,11417455,0.0,4301296.0,11417455.0
+3004,Western Sydney University,2016,IRU,130.0,22.0,152.0,False,Western Sydney University,9190.0,18171176,0.0,7464299.0,18171176.0
+3006,Australian Catholic University,2015,non-aligned,40.0,8.0,48.0,False,Australian Catholic University,6123.0,5677120,0.0,2353686.0,5677120.0
+3003,Bond University ,2015,non-aligned,23.0,2.0,25.0,True,Bond University ,1612.0,3339972,0.0,1526061.0,3339972.0
+2200,Central Queensland University,2015,RUN,30.0,12.0,42.0,False,Central Queensland University,4015.0,5738541,0.0,2368583.0,5738541.0
+3001,Charles Darwin University,2015,non-aligned,32.0,2.0,34.0,True,Charles Darwin University,1550.0,14376654,0.0,7839378.0,14376654.0
+3005,Charles Sturt University,2015,RUN,93.0,11.0,104.0,False,Charles Sturt University,9263.0,9246530,0.0,3448626.0,9246530.0
+2236,Curtin University,2015,ATN,259.0,33.0,292.0,False,Curtin University,10922.0,39229674,0.0,15129797.0,39229674.0
+3030,Deakin University,2015,ATN,239.0,13.0,252.0,False,Deakin University,10431.0,26835057,0.0,10184205.0,26835057.0
+2235,Edith Cowan University,2015,non-aligned,88.0,36.0,124.0,False,Edith Cowan University,5494.0,10943604,0.0,4020628.0,10943604.0
+2154,Federation University Australia,2015,RUN,24.0,11.0,35.0,False,Federation University Australia,3830.0,3840217,0.0,1317397.0,3840217.0
+3029,Flinders University,2015,IRU,131.0,15.0,146.0,False,Flinders University,5502.0,27735339,0.0,11864220.0,27735339.0
+3032,Griffith University,2015,IRU,231.0,13.0,244.0,False,Griffith University,10591.0,37741170,0.0,15613716.0,37741170.0
+1019,James Cook University,2015,IRU,118.0,18.0,136.0,False,James Cook University,4449.0,22889792,0.0,9849673.0,22889792.0
+3020,La Trobe University,2015,IRU,182.0,23.0,205.0,False,La Trobe University,8712.0,28423711,0.0,11262157.0,28423711.0
+3025,Macquarie University,2015,non-aligned,307.0,286.0,593.0,False,Macquarie University,9344.0,35881820,0.0,13120484.0,35881820.0
+3035,Monash University,2015,Go8,735.0,126.0,861.0,False,Monash University,16967.0,146892243,0.0,69277037.0,146892243.0
+1034,Murdoch University,2015,IRU,89.0,22.0,111.0,False,Murdoch University,5560.0,19278184,0.0,8137863.0,19278184.0
+3042,Queensland University of Technology,2015,non-aligned,322.0,102.0,424.0,False,Queensland University of Technology,11674.0,47609881,0.0,18151163.0,47609881.0
+3034,Royal Melbourne Institute of Technology,2015,ATN,242.0,36.0,278.0,False,Royal Melbourne Institute of Technology,16432.0,31255496,0.0,11321906.0,31255496.0
+3038,Southern Cross University,2015,RUN,52.0,7.0,59.0,False,Southern Cross University,2569.0,8188810,0.0,3299533.0,8188810.0
+2177,Swinburne University of Technology,2015,non-aligned,123.0,18.0,141.0,False,Swinburne University of Technology,6917.0,17768077,0.0,6607516.0,17768077.0
+3033,The Australian National University,2015,Go8,368.0,29.0,397.0,False,The Australian National University,6049.0,102188941,0.0,49211402.0,102188941.0
+3010,The University of Adelaide,2015,Go8,330.0,71.0,401.0,False,The University of Adelaide,6726.0,85629841,0.0,40473615.0,85629841.0
+3036,The University of Melbourne,2015,Go8,637.0,128.0,765.0,False,The University of Melbourne,18155.0,186764595,0.0,88801991.0,186764595.0
+3044,The University of Notre Dame Australia,2015,non-aligned,12.0,14.0,26.0,False,The University of Notre Dame Australia,2525.0,1215306,0.0,525193.0,1215306.0
+3019,The University of Queensland,2015,Go8,665.0,83.0,748.0,False,The University of Queensland,12079.0,171104108,0.0,82335843.0,171104108.0
+3040,The University of Sydney,2015,Go8,625.0,191.0,816.0,False,The University of Sydney,13653.0,180566039,0.0,83030194.0,180566039.0
+1055,The University of Western Australia,2015,Go8,318.0,54.0,372.0,False,The University of Western Australia,7389.0,93278682,0.0,45380890.0,93278682.0
+2241,University of Canberra,2015,IRU,69.0,5.0,74.0,False,University of Canberra,3929.0,8859691,0.0,3853654.0,8859691.0
+4331,University of Divinity,2015,non-aligned,2.0,5.0,7.0,True,University of Divinity,401.0,1595617,0.0,446675.0,1595617.0
+3039,University of New England,2015,RUN,85.0,12.0,97.0,False,University of New England,3567.0,15254732,0.0,6163846.0,15254732.0
+3013,University of New South Wales,2015,Go8,574.0,109.0,683.0,False,University of New South Wales,11968.0,162308527,0.0,72401480.0,162308527.0
+3014,University of Newcastle,2015,ATN,217.0,28.0,245.0,False,University of Newcastle,7286.0,41093834,0.0,18915354.0,41093834.0
+3027,University of South Australia,2015,ATN,185.0,18.0,203.0,False,University of South Australia,7452.0,32897095,0.0,13116818.0,32897095.0
+2201,University of Southern Queensland,2015,RUN,57.0,2.0,59.0,True,University of Southern Queensland,4599.0,7782177,0.0,2685859.0,7782177.0
+3045,University of Tasmania,2015,non-aligned,166.0,15.0,181.0,False,University of Tasmania,5994.0,42835164,0.0,18470929.0,42835164.0
+3016,University of Technology Sydney,2015,ATN,188.0,30.0,218.0,False,University of Technology Sydney,9671.0,26076110,0.0,10219083.0,26076110.0
+3043,University of the Sunshine Coast,2015,RUN,27.0,2.0,29.0,True,University of the Sunshine Coast,1991.0,4153243,0.0,2071072.0,4153243.0
+1058,University of Wollongong,2015,non-aligned,228.0,44.0,272.0,False,University of Wollongong,6687.0,34881509,0.0,13837606.0,34881509.0
+3007,Victoria University,2015,non-aligned,116.0,5.0,121.0,False,Victoria University,6781.0,11299717,0.0,4105166.0,11299717.0
+3004,Western Sydney University,2015,IRU,131.0,19.0,150.0,False,Western Sydney University,8971.0,17405056,0.0,7023708.0,17405056.0
+3006,Australian Catholic University,2014,non-aligned,32.0,5.0,37.0,False,Australian Catholic University,,5274879,0.0,1946444.0,5274879.0
+2246,Batchelor Institute of Indigenous Tertiary Education,2014,non-aligned,2.0,0.0,2.0,True,Batchelor Institute of Indigenous Tertiary Education,,378675,0.0,153734.0,378675.0
+3003,Bond University ,2014,non-aligned,8.0,2.0,10.0,True,Bond University ,,2974574,0.0,1403339.0,2974574.0
+2200,Central Queensland University,2014,RUN,33.0,13.0,46.0,False,Central Queensland University,,5372906,0.0,2128967.0,5372906.0
+3001,Charles Darwin University,2014,non-aligned,34.0,8.0,42.0,False,Charles Darwin University,,14140195,0.0,7636666.0,14140195.0
+3005,Charles Sturt University,2014,RUN,72.0,10.0,82.0,False,Charles Sturt University,,9100164,0.0,3410517.0,9100164.0
+2236,Curtin University,2014,ATN,245.0,52.0,297.0,False,Curtin University,,37997827,0.0,14217729.0,37997827.0
+3030,Deakin University,2014,ATN,270.0,10.0,280.0,False,Deakin University,,25454957,0.0,9344327.0,25454957.0
+2235,Edith Cowan University,2014,non-aligned,86.0,37.0,123.0,False,Edith Cowan University,,10743702,0.0,3964890.0,10743702.0
+2154,Federation University Australia,2014,RUN,15.0,2.0,17.0,True,Federation University Australia,,3837535,0.0,1188666.0,3837535.0
+3029,Flinders University,2014,IRU,138.0,6.0,144.0,False,Flinders University,,27452196,0.0,11482720.0,27452196.0
+3032,Griffith University,2014,IRU,213.0,17.0,230.0,False,Griffith University,,37337139,0.0,15369580.0,37337139.0
+1019,James Cook University,2014,IRU,93.0,12.0,105.0,False,James Cook University,,21661835,0.0,9231403.0,21661835.0
+3020,La Trobe University,2014,IRU,220.0,20.0,240.0,False,La Trobe University,,27030971,0.0,10424559.0,27030971.0
+3025,Macquarie University,2014,non-aligned,297.0,96.0,393.0,False,Macquarie University,,34035087,0.0,12510403.0,34035087.0
+3035,Monash University,2014,Go8,663.0,118.0,781.0,False,Monash University,,141374164,0.0,65646466.0,141374164.0
+1034,Murdoch University,2014,IRU,76.0,17.0,93.0,False,Murdoch University,,19392616,0.0,7701652.0,19392616.0
+3042,Queensland University of Technology,2014,non-aligned,292.0,89.0,381.0,False,Queensland University of Technology,,44656344,0.0,16293459.0,44656344.0
+3034,Royal Melbourne Institute of Technology,2014,ATN,237.0,39.0,276.0,False,Royal Melbourne Institute of Technology,,29835667,0.0,10757214.0,29835667.0
+3038,Southern Cross University,2014,RUN,31.0,2.0,33.0,True,Southern Cross University,,8208739,0.0,3109723.0,8208739.0
+2177,Swinburne University of Technology,2014,non-aligned,124.0,7.0,131.0,False,Swinburne University of Technology,,16704134,0.0,6147850.0,16704134.0
+3033,The Australian National University,2014,Go8,360.0,39.0,399.0,False,The Australian National University,,98932668,0.0,46689198.0,98932668.0
+3010,The University of Adelaide,2014,Go8,334.0,52.0,386.0,False,The University of Adelaide,,84081660,0.0,39156089.0,84081660.0
+3036,The University of Melbourne,2014,Go8,590.0,130.0,720.0,False,The University of Melbourne,,189244769,0.0,87838703.0,189244769.0
+3044,The University of Notre Dame Australia,2014,non-aligned,12.0,5.0,17.0,False,The University of Notre Dame Australia,,1085705,0.0,423132.0,1085705.0
+3019,The University of Queensland,2014,Go8,736.0,93.0,829.0,False,The University of Queensland,,163261485,0.0,76521226.0,163261485.0
+3040,The University of Sydney,2014,Go8,653.0,194.0,847.0,False,The University of Sydney,,179528595,0.0,82282521.0,179528595.0
+1055,The University of Western Australia,2014,Go8,258.0,48.0,306.0,False,The University of Western Australia,,90476360,0.0,42960378.0,90476360.0
+2241,University of Canberra,2014,IRU,57.0,2.0,59.0,True,University of Canberra,,8418053,0.0,3687251.0,8418053.0
+4331,University of Divinity,2014,non-aligned,2.0,2.0,4.0,True,University of Divinity,,1618300,0.0,386354.0,1618300.0
+3039,University of New England,2014,RUN,81.0,7.0,88.0,False,University of New England,,14589627,0.0,5220465.0,14589627.0
+3013,University of New South Wales,2014,Go8,633.0,142.0,775.0,False,University of New South Wales,,156198175,0.0,67301991.0,156198175.0
+3014,University of Newcastle,2014,ATN,194.0,12.0,206.0,False,University of Newcastle,,40523059,0.0,18731927.0,40523059.0
+3027,University of South Australia,2014,ATN,161.0,19.0,180.0,False,University of South Australia,,32014308,0.0,12479304.0,32014308.0
+2201,University of Southern Queensland,2014,RUN,65.0,5.0,70.0,False,University of Southern Queensland,,7187702,0.0,2406048.0,7187702.0
+3045,University of Tasmania,2014,non-aligned,153.0,13.0,166.0,False,University of Tasmania,,41513243,0.0,17521752.0,41513243.0
+3016,University of Technology Sydney,2014,ATN,173.0,33.0,206.0,False,University of Technology Sydney,,25251599,0.0,9435247.0,25251599.0
+3043,University of the Sunshine Coast,2014,RUN,18.0,2.0,20.0,True,University of the Sunshine Coast,,3236115,0.0,1383940.0,3236115.0
+1058,University of Wollongong,2014,non-aligned,238.0,51.0,289.0,False,University of Wollongong,,33549296,0.0,13387135.0,33549296.0
+3007,Victoria University,2014,non-aligned,102.0,13.0,115.0,False,Victoria University,,11307884,0.0,3827663.0,11307884.0
+3004,Western Sydney University,2014,IRU,107.0,15.0,122.0,False,Western Sydney University,,16890375,0.0,6613672.0,16890375.0
+3006,Australian Catholic University,2013,non-aligned,31.0,9.0,40.0,False,Australian Catholic University,,4776827,0.0,1550058.0,4776827.0
+3003,Bond University ,2013,non-aligned,25.0,2.0,27.0,True,Bond University ,,2664338,0.0,1267178.0,2664338.0
+2200,Central Queensland University,2013,RUN,44.0,10.0,54.0,False,Central Queensland University,,5087051,0.0,1894358.0,5087051.0
+3001,Charles Darwin University,2013,non-aligned,17.0,5.0,22.0,False,Charles Darwin University,,13287348,0.0,7196687.0,13287348.0
+3005,Charles Sturt University,2013,RUN,67.0,5.0,72.0,False,Charles Sturt University,,9304493,0.0,3717193.0,9304493.0
+2236,Curtin University,2013,ATN,242.0,39.0,281.0,False,Curtin University,,37105524,0.0,13737418.0,37105524.0
+3030,Deakin University,2013,ATN,174.0,14.0,188.0,False,Deakin University,,24442563,0.0,8617912.0,24442563.0
+2235,Edith Cowan University,2013,non-aligned,84.0,27.0,111.0,False,Edith Cowan University,,10466304,0.0,3730046.0,10466304.0
+2154,Federation University Australia,2013,RUN,18.0,2.0,20.0,True,Federation University Australia,,3891897,0.0,1181102.0,3891897.0
+3029,Flinders University,2013,IRU,96.0,10.0,106.0,False,Flinders University,,26936493,0.0,11387915.0,26936493.0
+3032,Griffith University,2013,IRU,186.0,12.0,198.0,False,Griffith University,,35705733,0.0,14685879.0,35705733.0
+1019,James Cook University,2013,IRU,87.0,11.0,98.0,False,James Cook University,,20172471,0.0,8635699.0,20172471.0
+3020,La Trobe University,2013,IRU,219.0,19.0,238.0,False,La Trobe University,,26097149,0.0,9879727.0,26097149.0
+3025,Macquarie University,2013,non-aligned,287.0,10.0,297.0,False,Macquarie University,,31335405,0.0,11261113.0,31335405.0
+3035,Monash University,2013,Go8,583.0,131.0,714.0,False,Monash University,,134197340,0.0,61106603.0,134197340.0
+1034,Murdoch University,2013,IRU,84.0,13.0,97.0,False,Murdoch University,,19760683,0.0,7776855.0,19760683.0
+3042,Queensland University of Technology,2013,non-aligned,284.0,90.0,374.0,False,Queensland University of Technology,,41756441,0.0,14649904.0,41756441.0
+3034,Royal Melbourne Institute of Technology,2013,ATN,249.0,50.0,299.0,False,Royal Melbourne Institute of Technology,,28435579,0.0,9678634.0,28435579.0
+3038,Southern Cross University,2013,RUN,58.0,0.0,58.0,False,Southern Cross University,,8045441,0.0,2747518.0,8045441.0
+2177,Swinburne University of Technology,2013,non-aligned,127.0,14.0,141.0,False,Swinburne University of Technology,,15797694,0.0,5671493.0,15797694.0
+3033,The Australian National University,2013,Go8,332.0,29.0,361.0,False,The Australian National University,,95717467,0.0,44825185.0,95717467.0
+3010,The University of Adelaide,2013,Go8,286.0,47.0,333.0,False,The University of Adelaide,,81716448,0.0,37626073.0,81716448.0
+3036,The University of Melbourne,2013,Go8,608.0,136.0,744.0,False,The University of Melbourne,,189249748,0.0,86391848.0,189249748.0
+3044,The University of Notre Dame Australia,2013,non-aligned,8.0,2.0,10.0,True,The University of Notre Dame Australia,,1052380,0.0,377802.0,1052380.0
+3019,The University of Queensland,2013,Go8,673.0,79.0,752.0,False,The University of Queensland,,157779766,0.0,72939934.0,157779766.0
+3040,The University of Sydney,2013,Go8,702.0,199.0,901.0,False,The University of Sydney,,177323412,0.0,81198475.0,177323412.0
+1055,The University of Western Australia,2013,Go8,288.0,58.0,346.0,False,The University of Western Australia,,87386448,0.0,40518176.0,87386448.0
+2241,University of Canberra,2013,IRU,55.0,7.0,62.0,False,University of Canberra,,7816662,0.0,3281866.0,7816662.0
+4331,University of Divinity,2013,non-aligned,7.0,6.0,13.0,False,University of Divinity,,1593006,0.0,327139.0,1593006.0
+3039,University of New England,2013,RUN,71.0,12.0,83.0,False,University of New England,,14229642,0.0,4572266.0,14229642.0
+3013,University of New South Wales,2013,Go8,610.0,131.0,741.0,False,University of New South Wales,,152293933,0.0,65271754.0,152293933.0
+3014,University of Newcastle,2013,ATN,195.0,30.0,225.0,False,University of Newcastle,,39712955,0.0,17989861.0,39712955.0
+3027,University of South Australia,2013,ATN,193.0,19.0,212.0,False,University of South Australia,,31428445,0.0,12154315.0,31428445.0
+2201,University of Southern Queensland,2013,RUN,57.0,7.0,64.0,False,University of Southern Queensland,,6559680,0.0,2192278.0,6559680.0
+3045,University of Tasmania,2013,non-aligned,152.0,26.0,178.0,False,University of Tasmania,,39168352,0.0,16179573.0,39168352.0
+3016,University of Technology Sydney,2013,ATN,167.0,37.0,204.0,False,University of Technology Sydney,,24551728,0.0,8730584.0,24551728.0
+3043,University of the Sunshine Coast,2013,RUN,19.0,5.0,24.0,False,University of the Sunshine Coast,,2583089,0.0,963831.0,2583089.0
+1058,University of Wollongong,2013,non-aligned,199.0,74.0,273.0,False,University of Wollongong,,31487821,0.0,12521580.0,31487821.0
+3007,Victoria University,2013,non-aligned,60.0,13.0,73.0,False,Victoria University,,10973317,0.0,3504547.0,10973317.0
+3004,Western Sydney University,2013,IRU,134.0,22.0,156.0,False,Western Sydney University,,16723975,0.0,6224381.0,16723975.0
+3006,Australian Catholic University,2012,non-aligned,11.0,9.0,20.0,False,Australian Catholic University,,3991937,0.0,1090519.0,3991937.0
+3003,Bond University ,2012,non-aligned,23.0,0.0,23.0,False,Bond University ,,2124858,0.0,908495.0,2124858.0
+2200,Central Queensland University,2012,RUN,23.0,9.0,32.0,False,Central Queensland University,,4891229,0.0,1819447.0,4891229.0
+3001,Charles Darwin University,2012,non-aligned,23.0,6.0,29.0,False,Charles Darwin University,,12314562,0.0,6796001.0,12314562.0
+3005,Charles Sturt University,2012,RUN,50.0,5.0,55.0,False,Charles Sturt University,,9522484,0.0,4291575.0,9522484.0
+2236,Curtin University,2012,ATN,214.0,28.0,242.0,False,Curtin University,,36718312,0.0,14447241.0,36718312.0
+3030,Deakin University,2012,ATN,150.0,17.0,167.0,False,Deakin University,,23843055,0.0,8708589.0,23843055.0
+2235,Edith Cowan University,2012,non-aligned,61.0,29.0,90.0,False,Edith Cowan University,,10140948,0.0,3646479.0,10140948.0
+2154,Federation University Australia,2012,RUN,26.0,6.0,32.0,False,Federation University Australia,,3899719,0.0,1215538.0,3899719.0
+3029,Flinders University,2012,IRU,114.0,10.0,124.0,False,Flinders University,,26351518,0.0,11703507.0,26351518.0
+3032,Griffith University,2012,IRU,165.0,20.0,185.0,False,Griffith University,,33577443,0.0,14270313.0,33577443.0
+1019,James Cook University,2012,IRU,102.0,13.0,115.0,False,James Cook University,,19296179,0.0,8565562.0,19296179.0
+3020,La Trobe University,2012,IRU,157.0,28.0,185.0,False,La Trobe University,,26332044,0.0,10757739.0,26332044.0
+3025,Macquarie University,2012,non-aligned,258.0,12.0,270.0,False,Macquarie University,,28979398,0.0,10494021.0,28979398.0
+3035,Monash University,2012,Go8,496.0,111.0,607.0,False,Monash University,,129000919,0.0,60547167.0,129000919.0
+1034,Murdoch University,2012,IRU,100.0,11.0,111.0,False,Murdoch University,,20494504,0.0,8633148.0,20494504.0
+3042,Queensland University of Technology,2012,non-aligned,245.0,80.0,325.0,False,Queensland University of Technology,,40537696,0.0,15656547.0,40537696.0
+3034,Royal Melbourne Institute of Technology,2012,ATN,187.0,46.0,233.0,False,Royal Melbourne Institute of Technology,,27430586,0.0,9107276.0,27430586.0
+3038,Southern Cross University,2012,RUN,40.0,5.0,45.0,False,Southern Cross University,,7824132,0.0,2535012.0,7824132.0
+2177,Swinburne University of Technology,2012,non-aligned,103.0,12.0,115.0,False,Swinburne University of Technology,,14943143,0.0,5444572.0,14943143.0
+3033,The Australian National University,2012,Go8,318.0,19.0,337.0,False,The Australian National University,,90297510,0.0,42889039.0,90297510.0
+3010,The University of Adelaide,2012,Go8,258.0,47.0,305.0,False,The University of Adelaide,,80164798,0.0,38797505.0,80164798.0
+3036,The University of Melbourne,2012,Go8,582.0,156.0,738.0,False,The University of Melbourne,,191907904,0.0,91952302.0,191907904.0
+3044,The University of Notre Dame Australia,2012,non-aligned,2.0,0.0,2.0,True,The University of Notre Dame Australia,,950179,0.0,356604.0,950179.0
+3019,The University of Queensland,2012,Go8,548.0,68.0,616.0,False,The University of Queensland,,153639018,0.0,73231630.0,153639018.0
+3040,The University of Sydney,2012,Go8,664.0,202.0,866.0,False,The University of Sydney,,175507193,0.0,83733526.0,175507193.0
+1055,The University of Western Australia,2012,Go8,302.0,63.0,365.0,False,The University of Western Australia,,84766055,0.0,39274889.0,84766055.0
+2241,University of Canberra,2012,IRU,41.0,7.0,48.0,False,University of Canberra,,7315323,0.0,3099959.0,7315323.0
+4331,University of Divinity,2012,non-aligned,9.0,9.0,18.0,False,University of Divinity,,1520341,0.0,333539.0,1520341.0
+3039,University of New England,2012,RUN,62.0,15.0,77.0,False,University of New England,,14539134,0.0,4828382.0,14539134.0
+3013,University of New South Wales,2012,Go8,550.0,136.0,686.0,False,University of New South Wales,,152734395,0.0,70877119.0,152734395.0
+3014,University of Newcastle,2012,ATN,149.0,20.0,169.0,False,University of Newcastle,,39455778,0.0,18319596.0,39455778.0
+3027,University of South Australia,2012,ATN,160.0,13.0,173.0,False,University of South Australia,,30521585,0.0,12600622.0,30521585.0
+2201,University of Southern Queensland,2012,RUN,62.0,16.0,78.0,False,University of Southern Queensland,,6095348,0.0,2183260.0,6095348.0
+3045,University of Tasmania,2012,non-aligned,172.0,32.0,204.0,False,University of Tasmania,,37410679,0.0,16166259.0,37410679.0
+3016,University of Technology Sydney,2012,ATN,113.0,39.0,152.0,False,University of Technology Sydney,,23719798,0.0,8691909.0,23719798.0
+3043,University of the Sunshine Coast,2012,RUN,22.0,0.0,22.0,False,University of the Sunshine Coast,,2337912,0.0,960946.0,2337912.0
+1058,University of Wollongong,2012,non-aligned,172.0,55.0,227.0,False,University of Wollongong,,29482051,0.0,12119961.0,29482051.0
+3007,Victoria University,2012,non-aligned,77.0,10.0,87.0,False,Victoria University,,10408683,0.0,3328245.0,10408683.0
+3004,Western Sydney University,2012,IRU,90.0,18.0,108.0,False,Western Sydney University,,16769710,0.0,6287407.0,16769710.0
+3006,Australian Catholic University,2011,non-aligned,34.0,8.0,42.0,False,Australian Catholic University,,3469703,0.0,873452.0,3469703.0
+3003,Bond University ,2011,non-aligned,8.0,2.0,10.0,True,Bond University ,,1761800,0.0,729161.0,1761800.0
+2200,Central Queensland University,2011,RUN,32.0,13.0,45.0,False,Central Queensland University,,4722201,0.0,1738135.0,4722201.0
+3001,Charles Darwin University,2011,non-aligned,23.0,2.0,25.0,True,Charles Darwin University,,10948822,0.0,5964291.0,10948822.0
+3005,Charles Sturt University,2011,RUN,57.0,2.0,59.0,True,Charles Sturt University,,8971550,0.0,3925286.0,8971550.0
+2236,Curtin University,2011,ATN,188.0,34.0,222.0,False,Curtin University,,34479470,0.0,13640920.0,34479470.0
+3030,Deakin University,2011,ATN,115.0,2.0,117.0,True,Deakin University,,21862787,0.0,7897557.0,21862787.0
+2235,Edith Cowan University,2011,non-aligned,55.0,22.0,77.0,False,Edith Cowan University,,9492334,0.0,3185401.0,9492334.0
+2154,Federation University Australia,2011,RUN,26.0,2.0,28.0,True,Federation University Australia,,3847889,0.0,1268132.0,3847889.0
+3029,Flinders University,2011,IRU,122.0,14.0,136.0,False,Flinders University,,25109119,0.0,11102810.0,25109119.0
+3032,Griffith University,2011,IRU,176.0,23.0,199.0,False,Griffith University,,30494077,0.0,12566894.0,30494077.0
+1019,James Cook University,2011,IRU,103.0,13.0,116.0,False,James Cook University,,18186042,0.0,7911153.0,18186042.0
+3020,La Trobe University,2011,IRU,155.0,19.0,174.0,False,La Trobe University,,25378511,0.0,10451438.0,25378511.0
+3025,Macquarie University,2011,non-aligned,228.0,16.0,244.0,False,Macquarie University,,27050258,0.0,10117360.0,27050258.0
+3035,Monash University,2011,Go8,503.0,123.0,626.0,False,Monash University,,118434607,0.0,54260225.0,118434607.0
+1034,Murdoch University,2011,IRU,86.0,17.0,103.0,False,Murdoch University,,19488219,0.0,8175676.0,19488219.0
+3042,Queensland University of Technology,2011,non-aligned,217.0,77.0,294.0,False,Queensland University of Technology,,37042437,0.0,14553622.0,37042437.0
+3034,Royal Melbourne Institute of Technology,2011,ATN,173.0,58.0,231.0,False,Royal Melbourne Institute of Technology,,27074053,0.0,8542919.0,27074053.0
+3038,Southern Cross University,2011,RUN,39.0,2.0,41.0,True,Southern Cross University,,7318749,0.0,2338445.0,7318749.0
+2177,Swinburne University of Technology,2011,non-aligned,85.0,6.0,91.0,False,Swinburne University of Technology,,13861817,0.0,4942472.0,13861817.0
+3033,The Australian National University,2011,Go8,327.0,24.0,351.0,False,The Australian National University,,82641909,0.0,38064948.0,82641909.0
+3010,The University of Adelaide,2011,Go8,250.0,44.0,294.0,False,The University of Adelaide,,73929572,0.0,35652921.0,73929572.0
+3036,The University of Melbourne,2011,Go8,610.0,167.0,777.0,False,The University of Melbourne,,181074420,0.0,85328092.0,181074420.0
+3044,The University of Notre Dame Australia,2011,non-aligned,2.0,2.0,4.0,True,The University of Notre Dame Australia,,834635,0.0,304470.0,834635.0
+3019,The University of Queensland,2011,Go8,496.0,57.0,553.0,False,The University of Queensland,,138918181,0.0,63655179.0,138918181.0
+3040,The University of Sydney,2011,Go8,587.0,203.0,790.0,False,The University of Sydney,,165580881,0.0,78298616.0,165580881.0
+1055,The University of Western Australia,2011,Go8,246.0,65.0,311.0,False,The University of Western Australia,,80568794,0.0,36796776.0,80568794.0
+2241,University of Canberra,2011,IRU,26.0,10.0,36.0,False,University of Canberra,,6761494,0.0,2881221.0,6761494.0
+4331,University of Divinity,2011,non-aligned,5.0,2.0,7.0,True,University of Divinity,,1267872,0.0,312212.0,1267872.0
+3039,University of New England,2011,RUN,75.0,18.0,93.0,False,University of New England,,14334572,0.0,4725462.0,14334572.0
+3013,University of New South Wales,2011,Go8,502.0,152.0,654.0,False,University of New South Wales,,137808179,0.0,62448118.0,137808179.0
+3014,University of Newcastle,2011,ATN,102.0,27.0,129.0,False,University of Newcastle,,36939385,0.0,16933413.0,36939385.0
+3027,University of South Australia,2011,ATN,141.0,17.0,158.0,False,University of South Australia,,28012407,0.0,11690229.0,28012407.0
+2201,University of Southern Queensland,2011,RUN,40.0,7.0,47.0,False,University of Southern Queensland,,5065955,0.0,1768977.0,5065955.0
+3045,University of Tasmania,2011,non-aligned,150.0,30.0,180.0,False,University of Tasmania,,35557336,0.0,16308653.0,35557336.0
+3016,University of Technology Sydney,2011,ATN,128.0,33.0,161.0,False,University of Technology Sydney,,22118548,0.0,8251665.0,22118548.0
+3043,University of the Sunshine Coast,2011,RUN,15.0,6.0,21.0,False,University of the Sunshine Coast,,1816499,0.0,733509.0,1816499.0
+1058,University of Wollongong,2011,non-aligned,169.0,58.0,227.0,False,University of Wollongong,,27569007,0.0,11459912.0,27569007.0
+3007,Victoria University,2011,non-aligned,71.0,6.0,77.0,False,Victoria University,,9453935,0.0,2827764.0,9453935.0
+3004,Western Sydney University,2011,IRU,86.0,25.0,111.0,False,Western Sydney University,,16021848,0.0,5715737.0,16021848.0
+3006,Australian Catholic University,2010,non-aligned,30.0,7.0,37.0,False,Australian Catholic University,,3422185,0.0,1060967.0,3422185.0
+3003,Bond University ,2010,non-aligned,12.0,2.0,14.0,True,Bond University ,,1691852,0.0,769700.0,1691852.0
+2200,Central Queensland University,2010,RUN,23.0,9.0,32.0,False,Central Queensland University,,4848913,0.0,1868925.0,4848913.0
+3001,Charles Darwin University,2010,non-aligned,19.0,2.0,21.0,True,Charles Darwin University,,10035319,0.0,5469603.0,10035319.0
+3005,Charles Sturt University,2010,RUN,39.0,2.0,41.0,True,Charles Sturt University,,8674348,0.0,3959978.0,8674348.0
+2236,Curtin University,2010,ATN,169.0,31.0,200.0,False,Curtin University,,31598803,0.0,12135187.0,31598803.0
+3030,Deakin University,2010,ATN,127.0,13.0,140.0,False,Deakin University,,20193168,0.0,7331717.0,20193168.0
+2235,Edith Cowan University,2010,non-aligned,51.0,19.0,70.0,False,Edith Cowan University,,8873313,0.0,2855318.0,8873313.0
+2154,Federation University Australia,2010,RUN,25.0,5.0,30.0,False,Federation University Australia,,4032310,0.0,1507366.0,4032310.0
+3029,Flinders University,2010,IRU,89.0,10.0,99.0,False,Flinders University,,23896412,0.0,10492601.0,23896412.0
+3032,Griffith University,2010,IRU,157.0,15.0,172.0,False,Griffith University,,27704062,0.0,10596821.0,27704062.0
+1019,James Cook University,2010,IRU,80.0,7.0,87.0,False,James Cook University,,17849781,0.0,7503782.0,17849781.0
+3020,La Trobe University,2010,IRU,128.0,24.0,152.0,False,La Trobe University,,24499954,0.0,9617986.0,24499954.0
+3025,Macquarie University,2010,non-aligned,166.0,18.0,184.0,False,Macquarie University,,25529488,0.0,9976423.0,25529488.0
+3035,Monash University,2010,Go8,424.0,100.0,524.0,False,Monash University,,111235395,0.0,51146445.0,111235395.0
+1034,Murdoch University,2010,IRU,89.0,17.0,106.0,False,Murdoch University,,19107777,0.0,7794420.0,19107777.0
+3042,Queensland University of Technology,2010,non-aligned,206.0,71.0,277.0,False,Queensland University of Technology,,32735049,0.0,12476934.0,32735049.0
+3034,Royal Melbourne Institute of Technology,2010,ATN,143.0,62.0,205.0,False,Royal Melbourne Institute of Technology,,26765383,0.0,8011150.0,26765383.0
+3038,Southern Cross University,2010,RUN,45.0,7.0,52.0,False,Southern Cross University,,7132724,0.0,2483500.0,7132724.0
+2177,Swinburne University of Technology,2010,non-aligned,82.0,7.0,89.0,False,Swinburne University of Technology,,13058678,0.0,4693757.0,13058678.0
+3033,The Australian National University,2010,Go8,301.0,26.0,327.0,False,The Australian National University,,79955528,0.0,37209611.0,79955528.0
+3010,The University of Adelaide,2010,Go8,272.0,34.0,306.0,False,The University of Adelaide,,68866781,0.0,32659241.0,68866781.0
+3036,The University of Melbourne,2010,Go8,566.0,161.0,727.0,False,The University of Melbourne,,168915292,0.0,78123997.0,168915292.0
+3044,The University of Notre Dame Australia,2010,non-aligned,6.0,2.0,8.0,True,The University of Notre Dame Australia,,963209,0.0,477947.0,963209.0
+3019,The University of Queensland,2010,Go8,474.0,61.0,535.0,False,The University of Queensland,,130579911,0.0,59876487.0,130579911.0
+3040,The University of Sydney,2010,Go8,573.0,202.0,775.0,False,The University of Sydney,,155842977,0.0,73475040.0,155842977.0
+1055,The University of Western Australia,2010,Go8,235.0,53.0,288.0,False,The University of Western Australia,,77863119,0.0,35855419.0,77863119.0
+2241,University of Canberra,2010,IRU,38.0,2.0,40.0,True,University of Canberra,,6407751,0.0,2698487.0,6407751.0
+4331,University of Divinity,2010,non-aligned,10.0,17.0,27.0,False,University of Divinity,,1316971,0.0,484282.0,1316971.0
+3039,University of New England,2010,RUN,59.0,27.0,86.0,False,University of New England,,14766983,0.0,5095702.0,14766983.0
+3013,University of New South Wales,2010,Go8,471.0,138.0,609.0,False,University of New South Wales,,122989645,0.0,53398039.0,122989645.0
+3014,University of Newcastle,2010,ATN,113.0,24.0,137.0,False,University of Newcastle,,34376334,0.0,15331935.0,34376334.0
+3027,University of South Australia,2010,ATN,159.0,16.0,175.0,False,University of South Australia,,25137681,0.0,10106299.0,25137681.0
+2201,University of Southern Queensland,2010,RUN,46.0,15.0,61.0,False,University of Southern Queensland,,4725907,0.0,1782213.0,4725907.0
+3045,University of Tasmania,2010,non-aligned,178.0,39.0,217.0,False,University of Tasmania,,35020185,0.0,16651981.0,35020185.0
+3016,University of Technology Sydney,2010,ATN,140.0,27.0,167.0,False,University of Technology Sydney,,20936542,0.0,8282628.0,20936542.0
+3043,University of the Sunshine Coast,2010,RUN,13.0,2.0,15.0,True,University of the Sunshine Coast,,1718326,0.0,810203.0,1718326.0
+1058,University of Wollongong,2010,non-aligned,135.0,33.0,168.0,False,University of Wollongong,,25678732,0.0,10528886.0,25678732.0
+3007,Victoria University,2010,non-aligned,80.0,12.0,92.0,False,Victoria University,,8914126,0.0,2664355.0,8914126.0
+3004,Western Sydney University,2010,IRU,77.0,13.0,90.0,False,Western Sydney University,,15352740,0.0,5300433.0,15352740.0
+3006,Australian Catholic University,2009,non-aligned,36.0,5.0,41.0,False,Australian Catholic University,,2923053,0.0,145145.0,2923053.0
+3003,Bond University ,2009,non-aligned,8.0,2.0,10.0,True,Bond University ,,1058284,0.0,96582.0,1058284.0
+2200,Central Queensland University,2009,RUN,25.0,14.0,39.0,False,Central Queensland University,,4414281,0.0,186582.0,4414281.0
+3001,Charles Darwin University,2009,non-aligned,17.0,2.0,19.0,True,Charles Darwin University,,7884775,0.0,1660949.0,7884775.0
+3005,Charles Sturt University,2009,RUN,22.0,2.0,24.0,True,Charles Sturt University,,7384761,0.0,1303973.0,7384761.0
+2236,Curtin University,2009,ATN,153.0,38.0,191.0,False,Curtin University,,27179812,0.0,2623677.0,27179812.0
+3030,Deakin University,2009,ATN,131.0,16.0,147.0,False,Deakin University,,18265490,0.0,2247692.0,18265490.0
+2235,Edith Cowan University,2009,non-aligned,41.0,23.0,64.0,False,Edith Cowan University,,7896417,0.0,384833.0,7896417.0
+2154,Federation University Australia,2009,RUN,22.0,7.0,29.0,False,Federation University Australia,,3437434,0.0,261092.0,3437434.0
+3029,Flinders University,2009,IRU,85.0,8.0,93.0,False,Flinders University,,21336074,0.0,3022742.0,21336074.0
+3032,Griffith University,2009,IRU,140.0,15.0,155.0,False,Griffith University,,24960917,0.0,2672463.0,24960917.0
+1019,James Cook University,2009,IRU,72.0,16.0,88.0,False,James Cook University,,16394533,0.0,2277696.0,16394533.0
+3020,La Trobe University,2009,IRU,134.0,23.0,157.0,False,La Trobe University,,22590894,0.0,2510968.0,22590894.0
+3025,Macquarie University,2009,non-aligned,189.0,26.0,215.0,False,Macquarie University,,23026920,0.0,3161527.0,23026920.0
+3035,Monash University,2009,Go8,411.0,106.0,517.0,False,Monash University,,99972988,0.0,19255736.0,99972988.0
+1034,Murdoch University,2009,IRU,87.0,9.0,96.0,False,Murdoch University,,18596803,0.0,2360849.0,18596803.0
+3042,Queensland University of Technology,2009,non-aligned,165.0,66.0,231.0,False,Queensland University of Technology,,27816937,0.0,3237362.0,27816937.0
+3034,Royal Melbourne Institute of Technology,2009,ATN,29.0,7.0,36.0,False,Royal Melbourne Institute of Technology,,24636475,0.0,1669328.0,24636475.0
+3038,Southern Cross University,2009,RUN,74.0,8.0,82.0,False,Southern Cross University,,6399372,0.0,392962.0,6399372.0
+2177,Swinburne University of Technology,2009,non-aligned,75.0,11.0,86.0,False,Swinburne University of Technology,,11470284,0.0,1155791.0,11470284.0
+3033,The Australian National University,2009,Go8,291.0,30.0,321.0,False,The Australian National University,,73193802,0.0,16468895.0,73193802.0
+3010,The University of Adelaide,2009,Go8,213.0,44.0,257.0,False,The University of Adelaide,,62668460,0.0,12961027.0,62668460.0
+3036,The University of Melbourne,2009,Go8,577.0,198.0,775.0,False,The University of Melbourne,,149949301,0.0,29070545.0,149949301.0
+3044,The University of Notre Dame Australia,2009,non-aligned,2.0,2.0,4.0,True,The University of Notre Dame Australia,,629237,0.0,61531.0,629237.0
+3019,The University of Queensland,2009,Go8,493.0,59.0,552.0,False,The University of Queensland,,118098567,0.0,22676107.0,118098567.0
+3040,The University of Sydney,2009,Go8,535.0,165.0,700.0,False,The University of Sydney,,137451906,0.0,25483164.0,137451906.0
+1055,The University of Western Australia,2009,Go8,260.0,43.0,303.0,False,The University of Western Australia,,70993130,0.0,14269056.0,70993130.0
+2241,University of Canberra,2009,IRU,24.0,2.0,26.0,True,University of Canberra,,5339785,0.0,454862.0,5339785.0
+4331,University of Divinity,2009,non-aligned,18.0,21.0,39.0,False,University of Divinity,,1012056,0.0,0.0,1012056.0
+3039,University of New England,2009,RUN,76.0,17.0,93.0,False,University of New England,,14088816,0.0,1466145.0,14088816.0
+3013,University of New South Wales,2009,Go8,451.0,112.0,563.0,False,University of New South Wales,,104662869,0.0,17316183.0,104662869.0
+3014,University of Newcastle,2009,ATN,108.0,27.0,135.0,False,University of Newcastle,,30413696,0.0,5053890.0,30413696.0
+3027,University of South Australia,2009,ATN,123.0,13.0,136.0,False,University of South Australia,,21565311,0.0,2294997.0,21565311.0
+2201,University of Southern Queensland,2009,RUN,49.0,16.0,65.0,False,University of Southern Queensland,,3999218,0.0,331376.0,3999218.0
+3045,University of Tasmania,2009,non-aligned,162.0,30.0,192.0,False,University of Tasmania,,32155889,0.0,5723822.0,32155889.0
+3016,University of Technology Sydney,2009,ATN,153.0,41.0,194.0,False,University of Technology Sydney,,19347640,0.0,2607517.0,19347640.0
+3043,University of the Sunshine Coast,2009,RUN,18.0,7.0,25.0,False,University of the Sunshine Coast,,1203755,0.0,77929.0,1203755.0
+1058,University of Wollongong,2009,non-aligned,152.0,43.0,195.0,False,University of Wollongong,,23865394,0.0,3621387.0,23865394.0
+3007,Victoria University,2009,non-aligned,73.0,5.0,78.0,False,Victoria University,,8325502,0.0,372919.0,8325502.0
+3004,Western Sydney University,2009,IRU,97.0,14.0,111.0,False,Western Sydney University,,13916031,0.0,1378946.0,13916031.0
+3006,Australian Catholic University,2008,non-aligned,29.0,2.0,31.0,True,Australian Catholic University,,2648158,0.0,150145.0,2648158.0
+3003,Bond University ,2008,non-aligned,10.0,2.0,12.0,True,Bond University ,,815549,0.0,36888.0,815549.0
+2200,Central Queensland University,2008,RUN,13.0,10.0,23.0,False,Central Queensland University,,4613045,0.0,270412.0,4613045.0
+3001,Charles Darwin University,2008,non-aligned,22.0,2.0,24.0,True,Charles Darwin University,,7017139,0.0,1474626.0,7017139.0
+3005,Charles Sturt University,2008,RUN,57.0,6.0,63.0,False,Charles Sturt University,,6831375,0.0,1107007.0,6831375.0
+2236,Curtin University,2008,ATN,144.0,33.0,177.0,False,Curtin University,,25081456,0.0,2365708.0,25081456.0
+3030,Deakin University,2008,ATN,131.0,14.0,145.0,False,Deakin University,,17913399,0.0,2193763.0,17913399.0
+2235,Edith Cowan University,2008,non-aligned,58.0,34.0,92.0,False,Edith Cowan University,,7821100,0.0,458096.0,7821100.0
+2154,Federation University Australia,2008,RUN,19.0,8.0,27.0,False,Federation University Australia,,3271713,0.0,210317.0,3271713.0
+3029,Flinders University,2008,IRU,108.0,13.0,121.0,False,Flinders University,,21538943,0.0,2943988.0,21538943.0
+3032,Griffith University,2008,IRU,126.0,20.0,146.0,False,Griffith University,,24393134,0.0,2505358.0,24393134.0
+1019,James Cook University,2008,IRU,45.0,17.0,62.0,False,James Cook University,,16271433,0.0,1825136.0,16271433.0
+3020,La Trobe University,2008,IRU,72.0,20.0,92.0,False,La Trobe University,,23767440,0.0,2544903.0,23767440.0
+3025,Macquarie University,2008,non-aligned,177.0,31.0,208.0,False,Macquarie University,,22609891,0.0,3438184.0,22609891.0
+3035,Monash University,2008,Go8,434.0,102.0,536.0,False,Monash University,,93388067,0.0,17954700.0,93388067.0
+1034,Murdoch University,2008,IRU,41.0,7.0,48.0,False,Murdoch University,,18761804,0.0,2311299.0,18761804.0
+3042,Queensland University of Technology,2008,non-aligned,167.0,81.0,248.0,False,Queensland University of Technology,,25551483,0.0,3301793.0,25551483.0
+3034,Royal Melbourne Institute of Technology,2008,ATN,171.0,96.0,267.0,False,Royal Melbourne Institute of Technology,,23994266,0.0,1649788.0,23994266.0
+3038,Southern Cross University,2008,RUN,49.0,6.0,55.0,False,Southern Cross University,,6253039,0.0,348351.0,6253039.0
+2177,Swinburne University of Technology,2008,non-aligned,90.0,7.0,97.0,False,Swinburne University of Technology,,10825775,0.0,1158615.0,10825775.0
+3033,The Australian National University,2008,Go8,317.0,24.0,341.0,False,The Australian National University,,72702215,0.0,17881023.0,72702215.0
+3010,The University of Adelaide,2008,Go8,265.0,33.0,298.0,False,The University of Adelaide,,63198000,0.0,13640873.0,63198000.0
+3036,The University of Melbourne,2008,Go8,558.0,162.0,720.0,False,The University of Melbourne,,144250764,0.0,27095313.0,144250764.0
+3044,The University of Notre Dame Australia,2008,non-aligned,7.0,0.0,7.0,False,The University of Notre Dame Australia,,556266,0.0,17996.0,556266.0
+3019,The University of Queensland,2008,Go8,517.0,81.0,598.0,False,The University of Queensland,,115319577,0.0,21359168.0,115319577.0
+3040,The University of Sydney,2008,Go8,529.0,146.0,675.0,False,The University of Sydney,,128473882,0.0,24526809.0,128473882.0
+1055,The University of Western Australia,2008,Go8,262.0,53.0,315.0,False,The University of Western Australia,,68891793,0.0,14359070.0,68891793.0
+2241,University of Canberra,2008,IRU,25.0,8.0,33.0,False,University of Canberra,,5279764,0.0,478475.0,5279764.0
+4331,University of Divinity,2008,non-aligned,5.0,13.0,18.0,False,University of Divinity,,1018223,0.0,0.0,1018223.0
+3039,University of New England,2008,RUN,69.0,21.0,90.0,False,University of New England,,14778542,0.0,1583842.0,14778542.0
+3013,University of New South Wales,2008,Go8,430.0,123.0,553.0,False,University of New South Wales,,96138413,0.0,16652755.0,96138413.0
+3014,University of Newcastle,2008,ATN,122.0,29.0,151.0,False,University of Newcastle,,30017504,0.0,5336427.0,30017504.0
+3027,University of South Australia,2008,ATN,117.0,18.0,135.0,False,University of South Australia,,19784043,0.0,2145288.0,19784043.0
+2201,University of Southern Queensland,2008,RUN,29.0,11.0,40.0,False,University of Southern Queensland,,4016355,0.0,423019.0,4016355.0
+3045,University of Tasmania,2008,non-aligned,108.0,32.0,140.0,False,University of Tasmania,,31652997,0.0,5670725.0,31652997.0
+3016,University of Technology Sydney,2008,ATN,148.0,38.0,186.0,False,University of Technology Sydney,,18989168,0.0,2788664.0,18989168.0
+3043,University of the Sunshine Coast,2008,RUN,6.0,2.0,8.0,True,University of the Sunshine Coast,,1099554,0.0,34825.0,1099554.0
+1058,University of Wollongong,2008,non-aligned,121.0,52.0,173.0,False,University of Wollongong,,24669872,0.0,3851278.0,24669872.0
+3007,Victoria University,2008,non-aligned,84.0,7.0,91.0,False,Victoria University,,8728808,0.0,596093.0,8728808.0
+3004,Western Sydney University,2008,IRU,99.0,15.0,114.0,False,Western Sydney University,,13736695,0.0,1294280.0,13736695.0
+3006,Australian Catholic University,2007,non-aligned,27.0,8.0,35.0,False,Australian Catholic University,,2466257,0.0,160986.0,2466257.0
+3003,Bond University ,2007,non-aligned,13.0,0.0,13.0,False,Bond University ,,711761,0.0,35803.0,711761.0
+2200,Central Queensland University,2007,RUN,21.0,12.0,33.0,False,Central Queensland University,,4690331,0.0,236786.0,4690331.0
+3001,Charles Darwin University,2007,non-aligned,25.0,11.0,36.0,False,Charles Darwin University,,6651167,0.0,1477652.0,6651167.0
+3005,Charles Sturt University,2007,RUN,36.0,2.0,38.0,True,Charles Sturt University,,6532405,0.0,962896.0,6532405.0
+2236,Curtin University,2007,ATN,187.0,51.0,238.0,False,Curtin University,,24128735,0.0,2109523.0,24128735.0
+3030,Deakin University,2007,ATN,127.0,10.0,137.0,False,Deakin University,,17965462,0.0,2269505.0,17965462.0
+2235,Edith Cowan University,2007,non-aligned,53.0,28.0,81.0,False,Edith Cowan University,,7794861,0.0,543919.0,7794861.0
+2154,Federation University Australia,2007,RUN,19.0,12.0,31.0,False,Federation University Australia,,3176122,0.0,207868.0,3176122.0
+3029,Flinders University,2007,IRU,83.0,9.0,92.0,False,Flinders University,,21781493,0.0,2881409.0,21781493.0
+3032,Griffith University,2007,IRU,158.0,16.0,174.0,False,Griffith University,,24585481,0.0,2546302.0,24585481.0
+1019,James Cook University,2007,IRU,66.0,10.0,76.0,False,James Cook University,,16176951,0.0,1744663.0,16176951.0
+3020,La Trobe University,2007,IRU,146.0,24.0,170.0,False,La Trobe University,,24585181,0.0,2799653.0,24585181.0
+3025,Macquarie University,2007,non-aligned,153.0,36.0,189.0,False,Macquarie University,,22343966,0.0,3303523.0,22343966.0
+3035,Monash University,2007,Go8,382.0,98.0,480.0,False,Monash University,,87979284,0.0,15625521.0,87979284.0
+1034,Murdoch University,2007,IRU,75.0,12.0,87.0,False,Murdoch University,,19162836,0.0,2323094.0,19162836.0
+3042,Queensland University of Technology,2007,non-aligned,179.0,60.0,239.0,False,Queensland University of Technology,,23562694,0.0,2939693.0,23562694.0
+3034,Royal Melbourne Institute of Technology,2007,ATN,173.0,88.0,261.0,False,Royal Melbourne Institute of Technology,,23967820,0.0,1736373.0,23967820.0
+3038,Southern Cross University,2007,RUN,54.0,2.0,56.0,True,Southern Cross University,,6261580,0.0,398737.0,6261580.0
+2177,Swinburne University of Technology,2007,non-aligned,66.0,7.0,73.0,False,Swinburne University of Technology,,10506948,0.0,1190490.0,10506948.0
+3033,The Australian National University,2007,Go8,288.0,14.0,302.0,False,The Australian National University,,71721436,0.0,18073910.0,71721436.0
+3010,The University of Adelaide,2007,Go8,241.0,29.0,270.0,False,The University of Adelaide,,64635639,0.0,13819697.0,64635639.0
+3036,The University of Melbourne,2007,Go8,537.0,195.0,732.0,False,The University of Melbourne,,138504670,0.0,25779668.0,138504670.0
+3044,The University of Notre Dame Australia,2007,non-aligned,2.0,2.0,4.0,True,The University of Notre Dame Australia,,527922,0.0,327.0,527922.0
+3019,The University of Queensland,2007,Go8,452.0,64.0,516.0,False,The University of Queensland,,114797207,0.0,20897560.0,114797207.0
+3040,The University of Sydney,2007,Go8,490.0,135.0,625.0,False,The University of Sydney,,122951313,0.0,23941310.0,122951313.0
+1055,The University of Western Australia,2007,Go8,267.0,67.0,334.0,False,The University of Western Australia,,68190042,0.0,14610189.0,68190042.0
+2241,University of Canberra,2007,IRU,42.0,12.0,54.0,False,University of Canberra,,5464633,0.0,490459.0,5464633.0
+4331,University of Divinity,2007,non-aligned,2.0,6.0,8.0,True,University of Divinity,,1025078,0.0,0.0,1025078.0
+3039,University of New England,2007,RUN,107.0,29.0,136.0,False,University of New England,,15249847,0.0,1766527.0,15249847.0
+3013,University of New South Wales,2007,Go8,496.0,150.0,646.0,False,University of New South Wales,,93229732,0.0,17212183.0,93229732.0
+3014,University of Newcastle,2007,ATN,108.0,33.0,141.0,False,University of Newcastle,,29541320,0.0,5322959.0,29541320.0
+3027,University of South Australia,2007,ATN,128.0,14.0,142.0,False,University of South Australia,,18339044,0.0,1869714.0,18339044.0
+2201,University of Southern Queensland,2007,RUN,32.0,11.0,43.0,False,University of Southern Queensland,,4109431,0.0,414917.0,4109431.0
+3045,University of Tasmania,2007,non-aligned,100.0,32.0,132.0,False,University of Tasmania,,31487421,0.0,5815171.0,31487421.0
+3016,University of Technology Sydney,2007,ATN,121.0,40.0,161.0,False,University of Technology Sydney,,18659736,0.0,2672422.0,18659736.0
+3043,University of the Sunshine Coast,2007,RUN,5.0,6.0,11.0,False,University of the Sunshine Coast,,1070296,0.0,50629.0,1070296.0
+1058,University of Wollongong,2007,non-aligned,110.0,51.0,161.0,False,University of Wollongong,,24513746,0.0,3673652.0,24513746.0
+3007,Victoria University,2007,non-aligned,55.0,8.0,63.0,False,Victoria University,,9093633,0.0,744647.0,9093633.0
+3004,Western Sydney University,2007,IRU,114.0,19.0,133.0,False,Western Sydney University,,13989251,0.0,1256663.0,13989251.0
+3006,Australian Catholic University,2006,non-aligned,37.0,10.0,47.0,False,Australian Catholic University,,2304011,0.0,166914.0,2304011.0
+3003,Bond University ,2006,non-aligned,9.0,2.0,11.0,True,Bond University ,,480107,0.0,17171.0,480107.0
+2200,Central Queensland University,2006,RUN,19.0,5.0,24.0,False,Central Queensland University,,4609398,0.0,243545.0,4609398.0
+3001,Charles Darwin University,2006,non-aligned,11.0,2.0,13.0,True,Charles Darwin University,,5306263,0.0,1045099.0,5306263.0
+3005,Charles Sturt University,2006,RUN,26.0,9.0,35.0,False,Charles Sturt University,,6363501,0.0,947725.0,6363501.0
+2236,Curtin University,2006,ATN,138.0,42.0,180.0,False,Curtin University,,22901652,0.0,2021009.0,22901652.0
+3030,Deakin University,2006,ATN,100.0,18.0,118.0,False,Deakin University,,17395800,0.0,2294488.0,17395800.0
+2235,Edith Cowan University,2006,non-aligned,61.0,29.0,90.0,False,Edith Cowan University,,7491190,0.0,545259.0,7491190.0
+2154,Federation University Australia,2006,RUN,19.0,2.0,21.0,True,Federation University Australia,,2749659,0.0,230664.0,2749659.0
+3029,Flinders University,2006,IRU,103.0,17.0,120.0,False,Flinders University,,22176468,0.0,2964274.0,22176468.0
+3032,Griffith University,2006,IRU,145.0,18.0,163.0,False,Griffith University,,24536474,0.0,2814994.0,24536474.0
+1019,James Cook University,2006,IRU,86.0,15.0,101.0,False,James Cook University,,16309378,0.0,1853044.0,16309378.0
+3020,La Trobe University,2006,IRU,133.0,27.0,160.0,False,La Trobe University,,25101019,0.0,2906865.0,25101019.0
+3025,Macquarie University,2006,non-aligned,122.0,48.0,170.0,False,Macquarie University,,22131735,0.0,3016892.0,22131735.0
+3035,Monash University,2006,Go8,384.0,120.0,504.0,False,Monash University,,83757433,0.0,14184850.0,83757433.0
+1034,Murdoch University,2006,IRU,87.0,21.0,108.0,False,Murdoch University,,19670990,0.0,2876607.0,19670990.0
+3042,Queensland University of Technology,2006,non-aligned,144.0,59.0,203.0,False,Queensland University of Technology,,21330369,0.0,2372759.0,21330369.0
+3034,Royal Melbourne Institute of Technology,2006,ATN,180.0,73.0,253.0,False,Royal Melbourne Institute of Technology,,23268947,0.0,1620975.0,23268947.0
+3038,Southern Cross University,2006,RUN,62.0,9.0,71.0,False,Southern Cross University,,6034476,0.0,498334.0,6034476.0
+2177,Swinburne University of Technology,2006,non-aligned,84.0,11.0,95.0,False,Swinburne University of Technology,,10072216,0.0,1217567.0,10072216.0
+3033,The Australian National University,2006,Go8,296.0,24.0,320.0,False,The Australian National University,,68249519,0.0,17248705.0,68249519.0
+3010,The University of Adelaide,2006,Go8,217.0,43.0,260.0,False,The University of Adelaide,,65641207,0.0,14247813.0,65641207.0
+3036,The University of Melbourne,2006,Go8,526.0,210.0,736.0,False,The University of Melbourne,,132779643,0.0,26050735.0,132779643.0
+3044,The University of Notre Dame Australia,2006,non-aligned,2.0,0.0,2.0,True,The University of Notre Dame Australia,,466381,0.0,0.0,466381.0
+3019,The University of Queensland,2006,Go8,396.0,115.0,511.0,False,The University of Queensland,,112794947,0.0,19709820.0,112794947.0
+3040,The University of Sydney,2006,Go8,495.0,161.0,656.0,False,The University of Sydney,,122030205,0.0,23727428.0,122030205.0
+1055,The University of Western Australia,2006,Go8,237.0,50.0,287.0,False,The University of Western Australia,,67036152,0.0,14806590.0,67036152.0
+2241,University of Canberra,2006,IRU,32.0,12.0,44.0,False,University of Canberra,,5511875,0.0,435379.0,5511875.0
+4331,University of Divinity,2006,non-aligned,5.0,13.0,18.0,False,University of Divinity,,775240,0.0,0.0,775240.0
+3039,University of New England,2006,RUN,88.0,26.0,114.0,False,University of New England,,15800320,0.0,2095373.0,15800320.0
+3013,University of New South Wales,2006,Go8,514.0,132.0,646.0,False,University of New South Wales,,91162023,0.0,17028054.0,91162023.0
+3014,University of Newcastle,2006,ATN,139.0,60.0,199.0,False,University of Newcastle,,28222376,0.0,5079830.0,28222376.0
+3027,University of South Australia,2006,ATN,121.0,23.0,144.0,False,University of South Australia,,16934843,0.0,1655230.0,16934843.0
+2201,University of Southern Queensland,2006,RUN,16.0,13.0,29.0,False,University of Southern Queensland,,4032354,0.0,316899.0,4032354.0
+3045,University of Tasmania,2006,non-aligned,126.0,33.0,159.0,False,University of Tasmania,,31141623,0.0,5590973.0,31141623.0
+3016,University of Technology Sydney,2006,ATN,115.0,48.0,163.0,False,University of Technology Sydney,,17918780,0.0,2455496.0,17918780.0
+3043,University of the Sunshine Coast,2006,RUN,6.0,2.0,8.0,True,University of the Sunshine Coast,,1033865,0.0,61116.0,1033865.0
+1058,University of Wollongong,2006,non-aligned,106.0,47.0,153.0,False,University of Wollongong,,24298310,0.0,3475186.0,24298310.0
+3007,Victoria University,2006,non-aligned,35.0,8.0,43.0,False,Victoria University,,8999395,0.0,827267.0,8999395.0
+3004,Western Sydney University,2006,IRU,94.0,19.0,113.0,False,Western Sydney University,,14250989,0.0,1257071.0,14250989.0
+3006,Australian Catholic University,2005,non-aligned,27.0,8.0,35.0,False,Australian Catholic University,,2238420,0.0,200223.0,2238420.0
+3003,Bond University ,2005,non-aligned,9.0,2.0,11.0,True,Bond University ,,358048,0.0,16483.0,358048.0
+2200,Central Queensland University,2005,RUN,22.0,17.0,39.0,False,Central Queensland University,,4772036,0.0,377980.0,4772036.0
+3001,Charles Darwin University,2005,non-aligned,17.0,11.0,28.0,False,Charles Darwin University,,4345767,0.0,469670.0,4345767.0
+3005,Charles Sturt University,2005,RUN,25.0,6.0,31.0,False,Charles Sturt University,,6307863,0.0,1082233.0,6307863.0
+2236,Curtin University,2005,ATN,136.0,42.0,178.0,False,Curtin University,,21733140,0.0,1676150.0,21733140.0
+3030,Deakin University,2005,ATN,101.0,20.0,121.0,False,Deakin University,,16123878,0.0,1939573.0,16123878.0
+2235,Edith Cowan University,2005,non-aligned,45.0,35.0,80.0,False,Edith Cowan University,,7178049,0.0,471939.0,7178049.0
+2154,Federation University Australia,2005,RUN,20.0,7.0,27.0,False,Federation University Australia,,2398939,0.0,219288.0,2398939.0
+3029,Flinders University,2005,IRU,91.0,23.0,114.0,False,Flinders University,,22823994,0.0,3064403.0,22823994.0
+3032,Griffith University,2005,IRU,140.0,31.0,171.0,False,Griffith University,,24063266,0.0,2831524.0,24063266.0
+1019,James Cook University,2005,IRU,72.0,17.0,89.0,False,James Cook University,,16289393,0.0,1804258.0,16289393.0
+3020,La Trobe University,2005,IRU,139.0,18.0,157.0,False,La Trobe University,,25793994,0.0,2937284.0,25793994.0
+3025,Macquarie University,2005,non-aligned,115.0,33.0,148.0,False,Macquarie University,,22349890,0.0,2667217.0,22349890.0
+3035,Monash University,2005,Go8,354.0,115.0,469.0,False,Monash University,,80657742,0.0,12705777.0,80657742.0
+1034,Murdoch University,2005,IRU,80.0,11.0,91.0,False,Murdoch University,,18737706,0.0,2852614.0,18737706.0
+3042,Queensland University of Technology,2005,non-aligned,151.0,62.0,213.0,False,Queensland University of Technology,,19918173,0.0,2049454.0,19918173.0
+3034,Royal Melbourne Institute of Technology,2005,ATN,127.0,88.0,215.0,False,Royal Melbourne Institute of Technology,,22102891,0.0,1231201.0,22102891.0
+3038,Southern Cross University,2005,RUN,27.0,10.0,37.0,False,Southern Cross University,,5687527,0.0,475592.0,5687527.0
+2177,Swinburne University of Technology,2005,non-aligned,68.0,7.0,75.0,False,Swinburne University of Technology,,9343066,0.0,1025133.0,9343066.0
+3033,The Australian National University,2005,Go8,268.0,35.0,303.0,False,The Australian National University,,62485201,0.0,14486690.0,62485201.0
+3010,The University of Adelaide,2005,Go8,134.0,20.0,154.0,False,The University of Adelaide,,64841040,0.0,13773160.0,64841040.0
+3036,The University of Melbourne,2005,Go8,523.0,216.0,739.0,False,The University of Melbourne,,126769481,0.0,25038357.0,126769481.0
+3044,The University of Notre Dame Australia,2005,non-aligned,2.0,0.0,2.0,True,The University of Notre Dame Australia,,467905,0.0,0.0,467905.0
+3019,The University of Queensland,2005,Go8,426.0,118.0,544.0,False,The University of Queensland,,109619429,0.0,17277500.0,109619429.0
+3040,The University of Sydney,2005,Go8,487.0,148.0,635.0,False,The University of Sydney,,118397157,0.0,21150451.0,118397157.0
+1055,The University of Western Australia,2005,Go8,270.0,80.0,350.0,False,The University of Western Australia,,64624922,0.0,13902985.0,64624922.0
+2241,University of Canberra,2005,IRU,24.0,11.0,35.0,False,University of Canberra,,5647555,0.0,355176.0,5647555.0
+4331,University of Divinity,2005,non-aligned,6.0,14.0,20.0,False,University of Divinity,,669840,0.0,0.0,669840.0
+3039,University of New England,2005,RUN,88.0,27.0,115.0,False,University of New England,,16155653,0.0,2182116.0,16155653.0
+3013,University of New South Wales,2005,Go8,494.0,118.0,612.0,False,University of New South Wales,,90619135,0.0,16215215.0,90619135.0
+3014,University of Newcastle,2005,ATN,107.0,47.0,154.0,False,University of Newcastle,,27264320,0.0,4476009.0,27264320.0
+3027,University of South Australia,2005,ATN,101.0,27.0,128.0,False,University of South Australia,,15867959,0.0,1495109.0,15867959.0
+2201,University of Southern Queensland,2005,RUN,20.0,11.0,31.0,False,University of Southern Queensland,,4178521,0.0,434962.0,4178521.0
+3045,University of Tasmania,2005,non-aligned,129.0,22.0,151.0,False,University of Tasmania,,31000996,0.0,4994193.0,31000996.0
+3016,University of Technology Sydney,2005,ATN,97.0,27.0,124.0,False,University of Technology Sydney,,17369458,0.0,1898036.0,17369458.0
+3043,University of the Sunshine Coast,2005,RUN,7.0,2.0,9.0,True,University of the Sunshine Coast,,1028880,0.0,72389.0,1028880.0
+1058,University of Wollongong,2005,non-aligned,134.0,32.0,166.0,False,University of Wollongong,,24038823,0.0,3066219.0,24038823.0
+3007,Victoria University,2005,non-aligned,67.0,18.0,85.0,False,Victoria University,,8936962,0.0,706478.0,8936962.0
+3004,Western Sydney University,2005,IRU,93.0,34.0,127.0,False,Western Sydney University,,14681749,0.0,1358959.0,14681749.0
+3006,Australian Catholic University,2004,non-aligned,18.0,9.0,27.0,False,Australian Catholic University,,2020726,0.0,187339.0,2020726.0
+3003,Bond University ,2004,non-aligned,10.0,2.0,12.0,True,Bond University ,,237962,0.0,31900.0,237962.0
+2200,Central Queensland University,2004,RUN,17.0,7.0,24.0,False,Central Queensland University,,4663818,0.0,346270.0,4663818.0
+3001,Charles Darwin University,2004,non-aligned,21.0,8.0,29.0,False,Charles Darwin University,,4388317,0.0,384537.0,4388317.0
+3005,Charles Sturt University,2004,RUN,22.0,6.0,28.0,False,Charles Sturt University,,5932316,0.0,843377.0,5932316.0
+2236,Curtin University,2004,ATN,148.0,56.0,204.0,False,Curtin University,,20698287,0.0,1563468.0,20698287.0
+3030,Deakin University,2004,ATN,95.0,14.0,109.0,False,Deakin University,,14497202,0.0,1589712.0,14497202.0
+2235,Edith Cowan University,2004,non-aligned,54.0,30.0,84.0,False,Edith Cowan University,,6961756,0.0,523182.0,6961756.0
+2154,Federation University Australia,2004,RUN,19.0,10.0,29.0,False,Federation University Australia,,2007732,0.0,174994.0,2007732.0
+3029,Flinders University,2004,IRU,94.0,20.0,114.0,False,Flinders University,,23697855,0.0,3481966.0,23697855.0
+3032,Griffith University,2004,IRU,135.0,33.0,168.0,False,Griffith University,,23569479,0.0,2616848.0,23569479.0
+1019,James Cook University,2004,IRU,80.0,24.0,104.0,False,James Cook University,,16683854,0.0,1778804.0,16683854.0
+3020,La Trobe University,2004,IRU,128.0,22.0,150.0,False,La Trobe University,,27224422,0.0,3121884.0,27224422.0
+3025,Macquarie University,2004,non-aligned,101.0,22.0,123.0,False,Macquarie University,,22753445,0.0,2495128.0,22753445.0
+3035,Monash University,2004,Go8,330.0,115.0,445.0,False,Monash University,,76665726,0.0,11037862.0,76665726.0
+1034,Murdoch University,2004,IRU,89.0,15.0,104.0,False,Murdoch University,,17298663,0.0,2408825.0,17298663.0
+3042,Queensland University of Technology,2004,non-aligned,118.0,55.0,173.0,False,Queensland University of Technology,,18766266,0.0,1745934.0,18766266.0
+3034,Royal Melbourne Institute of Technology,2004,ATN,154.0,99.0,253.0,False,Royal Melbourne Institute of Technology,,20853458,0.0,1106856.0,20853458.0
+3038,Southern Cross University,2004,RUN,50.0,12.0,62.0,False,Southern Cross University,,5239055,0.0,450402.0,5239055.0
+2177,Swinburne University of Technology,2004,non-aligned,60.0,19.0,79.0,False,Swinburne University of Technology,,8678939,0.0,853483.0,8678939.0
+3033,The Australian National University,2004,Go8,231.0,29.0,260.0,False,The Australian National University,,56834673,0.0,10602642.0,56834673.0
+3010,The University of Adelaide,2004,Go8,191.0,29.0,220.0,False,The University of Adelaide,,62300633,0.0,12193616.0,62300633.0
+3036,The University of Melbourne,2004,Go8,496.0,228.0,724.0,False,The University of Melbourne,,118874891,0.0,21901068.0,118874891.0
+3044,The University of Notre Dame Australia,2004,non-aligned,2.0,0.0,2.0,True,The University of Notre Dame Australia,,346595,0.0,13954.0,346595.0
+3019,The University of Queensland,2004,Go8,419.0,95.0,514.0,False,The University of Queensland,,106441907,0.0,15365694.0,106441907.0
+3040,The University of Sydney,2004,Go8,444.0,153.0,597.0,False,The University of Sydney,,113693151,0.0,17395230.0,113693151.0
+1055,The University of Western Australia,2004,Go8,231.0,71.0,302.0,False,The University of Western Australia,,62347270,0.0,12420404.0,62347270.0
+2241,University of Canberra,2004,IRU,16.0,12.0,28.0,False,University of Canberra,,5647917,0.0,463091.0,5647917.0
+4331,University of Divinity,2004,non-aligned,6.0,15.0,21.0,False,University of Divinity,,409904,0.0,0.0,409904.0
+3039,University of New England,2004,RUN,74.0,26.0,100.0,False,University of New England,,16502791,0.0,2012574.0,16502791.0
+3013,University of New South Wales,2004,Go8,379.0,134.0,513.0,False,University of New South Wales,,89412318,0.0,14903584.0,89412318.0
+3014,University of Newcastle,2004,ATN,111.0,33.0,144.0,False,University of Newcastle,,28108847,0.0,3903952.0,28108847.0
+3027,University of South Australia,2004,ATN,110.0,23.0,133.0,False,University of South Australia,,14971635,0.0,1328726.0,14971635.0
+2201,University of Southern Queensland,2004,RUN,23.0,6.0,29.0,False,University of Southern Queensland,,4056430,0.0,454828.0,4056430.0
+3045,University of Tasmania,2004,non-aligned,99.0,28.0,127.0,False,University of Tasmania,,30708455,0.0,4375345.0,30708455.0
+3016,University of Technology Sydney,2004,ATN,83.0,42.0,125.0,False,University of Technology Sydney,,16969846,0.0,1419071.0,16969846.0
+3043,University of the Sunshine Coast,2004,RUN,2.0,2.0,4.0,True,University of the Sunshine Coast,,795997,0.0,41880.0,795997.0
+1058,University of Wollongong,2004,non-aligned,100.0,21.0,121.0,False,University of Wollongong,,23806232,0.0,2739082.0,23806232.0
+3007,Victoria University,2004,non-aligned,62.0,19.0,81.0,False,Victoria University,,8786804,0.0,607736.0,8786804.0
+3004,Western Sydney University,2004,IRU,78.0,22.0,100.0,False,Western Sydney University,,14654000,0.0,1425752.0,14654000.0
+3006,Australian Catholic University,2003,non-aligned,10.0,5.0,15.0,False,Australian Catholic University,,1851630,0.0,119672.0,1851630.0
+3003,Bond University ,2003,non-aligned,6.0,2.0,8.0,True,Bond University ,,227416,0.0,24916.0,227416.0
+2200,Central Queensland University,2003,RUN,20.0,11.0,31.0,False,Central Queensland University,,4461071,0.0,284291.0,4461071.0
+3001,Charles Darwin University,2003,non-aligned,15.0,6.0,21.0,False,Charles Darwin University,,4255798,0.0,408325.0,4255798.0
+3005,Charles Sturt University,2003,RUN,41.0,9.0,50.0,False,Charles Sturt University,,5539018,0.0,606956.0,5539018.0
+2236,Curtin University,2003,ATN,158.0,59.0,217.0,False,Curtin University,,19626995,0.0,1512750.0,19626995.0
+3030,Deakin University,2003,ATN,96.0,19.0,115.0,False,Deakin University,,13242515,0.0,1205608.0,13242515.0
+2235,Edith Cowan University,2003,non-aligned,37.0,43.0,80.0,False,Edith Cowan University,,6489178,0.0,403856.0,6489178.0
+2154,Federation University Australia,2003,RUN,17.0,14.0,31.0,False,Federation University Australia,,1852803,0.0,96786.0,1852803.0
+3029,Flinders University,2003,IRU,78.0,18.0,96.0,False,Flinders University,,23876437,0.0,3464769.0,23876437.0
+3032,Griffith University,2003,IRU,128.0,39.0,167.0,False,Griffith University,,22650886,0.0,2174379.0,22650886.0
+1019,James Cook University,2003,IRU,63.0,30.0,93.0,False,James Cook University,,16114263,0.0,1633413.0,16114263.0
+3020,La Trobe University,2003,IRU,142.0,34.0,176.0,False,La Trobe University,,26258015,0.0,2844923.0,26258015.0
+3025,Macquarie University,2003,non-aligned,99.0,39.0,138.0,False,Macquarie University,,23266021,0.0,2573395.0,23266021.0
+3035,Monash University,2003,Go8,338.0,107.0,445.0,False,Monash University,,73048205,0.0,9639300.0,73048205.0
+1034,Murdoch University,2003,IRU,86.0,9.0,95.0,False,Murdoch University,,16257843,0.0,1883529.0,16257843.0
+3042,Queensland University of Technology,2003,non-aligned,113.0,62.0,175.0,False,Queensland University of Technology,,18044910,0.0,1495461.0,18044910.0
+3034,Royal Melbourne Institute of Technology,2003,ATN,135.0,106.0,241.0,False,Royal Melbourne Institute of Technology,,20535041,0.0,1010970.0,20535041.0
+3038,Southern Cross University,2003,RUN,67.0,2.0,69.0,True,Southern Cross University,,4960930,0.0,432317.0,4960930.0
+2177,Swinburne University of Technology,2003,non-aligned,48.0,27.0,75.0,False,Swinburne University of Technology,,8279135,0.0,623586.0,8279135.0
+3033,The Australian National University,2003,Go8,222.0,31.0,253.0,False,The Australian National University,,53862695,0.0,8582189.0,53862695.0
+3010,The University of Adelaide,2003,Go8,215.0,27.0,242.0,False,The University of Adelaide,,57652184,0.0,10221591.0,57652184.0
+3036,The University of Melbourne,2003,Go8,465.0,229.0,694.0,False,The University of Melbourne,,110980980,0.0,17626140.0,110980980.0
+3044,The University of Notre Dame Australia,2003,non-aligned,2.0,0.0,2.0,True,The University of Notre Dame Australia,,334215,0.0,19993.0,334215.0
+3019,The University of Queensland,2003,Go8,456.0,92.0,548.0,False,The University of Queensland,,103005255,0.0,13664572.0,103005255.0
+3040,The University of Sydney,2003,Go8,418.0,132.0,550.0,False,The University of Sydney,,108148110,0.0,14543590.0,108148110.0
+1055,The University of Western Australia,2003,Go8,211.0,57.0,268.0,False,The University of Western Australia,,59447777,0.0,10325229.0,59447777.0
+2241,University of Canberra,2003,IRU,23.0,18.0,41.0,False,University of Canberra,,5572369,0.0,565442.0,5572369.0
+4331,University of Divinity,2003,non-aligned,2.0,11.0,13.0,True,University of Divinity,,317858,0.0,0.0,317858.0
+3039,University of New England,2003,RUN,83.0,29.0,112.0,False,University of New England,,15868188,0.0,1630272.0,15868188.0
+3013,University of New South Wales,2003,Go8,262.0,70.0,332.0,False,University of New South Wales,,88920957,0.0,13462271.0,88920957.0
+3014,University of Newcastle,2003,ATN,123.0,50.0,173.0,False,University of Newcastle,,26872946,0.0,3336782.0,26872946.0
+3027,University of South Australia,2003,ATN,93.0,34.0,127.0,False,University of South Australia,,14570092,0.0,1249384.0,14570092.0
+2201,University of Southern Queensland,2003,RUN,19.0,10.0,29.0,False,University of Southern Queensland,,3738414,0.0,392587.0,3738414.0
+3045,University of Tasmania,2003,non-aligned,116.0,36.0,152.0,False,University of Tasmania,,28142870,0.0,3372564.0,28142870.0
+3016,University of Technology Sydney,2003,ATN,76.0,37.0,113.0,False,University of Technology Sydney,,16588049,0.0,1244916.0,16588049.0
+3043,University of the Sunshine Coast,2003,RUN,2.0,2.0,4.0,True,University of the Sunshine Coast,,611057,0.0,5102.0,611057.0
+1058,University of Wollongong,2003,non-aligned,103.0,31.0,134.0,False,University of Wollongong,,23292487,0.0,2400015.0,23292487.0
+3007,Victoria University,2003,non-aligned,47.0,15.0,62.0,False,Victoria University,,8308485,0.0,673376.0,8308485.0
+3004,Western Sydney University,2003,IRU,91.0,37.0,128.0,False,Western Sydney University,,14311896,0.0,1243783.0,14311896.0
+3006,Australian Catholic University,2002,non-aligned,13.0,7.0,20.0,False,Australian Catholic University,,1647679,0.0,75067.0,1647679.0
+3003,Bond University ,2002,non-aligned,2.0,2.0,4.0,True,Bond University ,,177100,0.0,14720.0,177100.0
+2200,Central Queensland University,2002,RUN,19.0,9.0,28.0,False,Central Queensland University,,4356894,0.0,242162.0,4356894.0
+3001,Charles Darwin University,2002,non-aligned,19.0,6.0,25.0,False,Charles Darwin University,,4390350,0.0,417935.0,4390350.0
+3005,Charles Sturt University,2002,RUN,23.0,2.0,25.0,True,Charles Sturt University,,5328209,0.0,469501.0,5328209.0
+2236,Curtin University,2002,ATN,91.0,38.0,129.0,False,Curtin University,,17988215,0.0,1222644.0,17988215.0
+3030,Deakin University,2002,ATN,93.0,28.0,121.0,False,Deakin University,,12009439,0.0,894494.0,12009439.0
+2235,Edith Cowan University,2002,non-aligned,37.0,36.0,73.0,False,Edith Cowan University,,5888016,0.0,261092.0,5888016.0
+2154,Federation University Australia,2002,RUN,2.0,8.0,10.0,True,Federation University Australia,,1696190,0.0,75778.0,1696190.0
+3029,Flinders University,2002,IRU,84.0,22.0,106.0,False,Flinders University,,22590141,0.0,2909850.0,22590141.0
+3032,Griffith University,2002,IRU,105.0,33.0,138.0,False,Griffith University,,21532285,0.0,1699320.0,21532285.0
+1019,James Cook University,2002,IRU,69.0,22.0,91.0,False,James Cook University,,15683715,0.0,1460246.0,15683715.0
+3020,La Trobe University,2002,IRU,137.0,30.0,167.0,False,La Trobe University,,25304657,0.0,2310354.0,25304657.0
+3025,Macquarie University,2002,non-aligned,88.0,16.0,104.0,False,Macquarie University,,23223322,0.0,2314454.0,23223322.0
+3035,Monash University,2002,Go8,324.0,130.0,454.0,False,Monash University,,70841476,0.0,8078236.0,70841476.0
+1034,Murdoch University,2002,IRU,87.0,5.0,92.0,False,Murdoch University,,15549760,0.0,1508451.0,15549760.0
+3042,Queensland University of Technology,2002,non-aligned,95.0,54.0,149.0,False,Queensland University of Technology,,17700729,0.0,1335606.0,17700729.0
+3034,Royal Melbourne Institute of Technology,2002,ATN,108.0,117.0,225.0,False,Royal Melbourne Institute of Technology,,19623305,0.0,779532.0,19623305.0
+3038,Southern Cross University,2002,RUN,60.0,15.0,75.0,False,Southern Cross University,,4766746,0.0,377248.0,4766746.0
+2177,Swinburne University of Technology,2002,non-aligned,37.0,24.0,61.0,False,Swinburne University of Technology,,7842790,0.0,424547.0,7842790.0
+3033,The Australian National University,2002,Go8,212.0,24.0,236.0,False,The Australian National University,,50860423,0.0,7335058.0,50860423.0
+3010,The University of Adelaide,2002,Go8,190.0,36.0,226.0,False,The University of Adelaide,,53503510,0.0,7954386.0,53503510.0
+3036,The University of Melbourne,2002,Go8,438.0,225.0,663.0,False,The University of Melbourne,,107399641,0.0,14378439.0,107399641.0
+3044,The University of Notre Dame Australia,2002,non-aligned,2.0,2.0,4.0,True,The University of Notre Dame Australia,,326844,0.0,12521.0,326844.0
+3019,The University of Queensland,2002,Go8,379.0,105.0,484.0,False,The University of Queensland,,97789456,0.0,11133725.0,97789456.0
+3040,The University of Sydney,2002,Go8,393.0,124.0,517.0,False,The University of Sydney,,103719967,0.0,12432107.0,103719967.0
+1055,The University of Western Australia,2002,Go8,185.0,68.0,253.0,False,The University of Western Australia,,57056113,0.0,8257803.0,57056113.0
+2241,University of Canberra,2002,IRU,18.0,23.0,41.0,False,University of Canberra,,5209470,0.0,468189.0,5209470.0
+4331,University of Divinity,2002,non-aligned,5.0,13.0,18.0,False,University of Divinity,,271055,0.0,0.0,271055.0
+3039,University of New England,2002,RUN,69.0,32.0,101.0,False,University of New England,,15557016,0.0,1400881.0,15557016.0
+3013,University of New South Wales,2002,Go8,329.0,70.0,399.0,False,University of New South Wales,,86083956,0.0,12030903.0,86083956.0
+3014,University of Newcastle,2002,ATN,68.0,38.0,106.0,False,University of Newcastle,,25938180,0.0,2753560.0,25938180.0
+3027,University of South Australia,2002,ATN,83.0,17.0,100.0,False,University of South Australia,,14077802,0.0,1040525.0,14077802.0
+2201,University of Southern Queensland,2002,RUN,11.0,9.0,20.0,False,University of Southern Queensland,,3449425,0.0,366605.0,3449425.0
+3045,University of Tasmania,2002,non-aligned,104.0,31.0,135.0,False,University of Tasmania,,25627378,0.0,2680203.0,25627378.0
+3016,University of Technology Sydney,2002,ATN,78.0,39.0,117.0,False,University of Technology Sydney,,16016373,0.0,1039758.0,16016373.0
+3043,University of the Sunshine Coast,2002,RUN,0.0,2.0,2.0,True,University of the Sunshine Coast,,482191,0.0,4002.0,482191.0
+1058,University of Wollongong,2002,non-aligned,104.0,34.0,138.0,False,University of Wollongong,,22443070,0.0,2023305.0,22443070.0
+3007,Victoria University,2002,non-aligned,54.0,14.0,68.0,False,Victoria University,,7814624,0.0,678388.0,7814624.0
+3004,Western Sydney University,2002,IRU,71.0,41.0,112.0,False,Western Sydney University,,13976868,0.0,997405.0,13976868.0
+3006,Australian Catholic University,2001,non-aligned,5.0,8.0,13.0,False,Australian Catholic University,,1587913,0.0,43967.0,1587913.0
+3003,Bond University ,2001,non-aligned,5.0,2.0,7.0,True,Bond University ,,164327,0.0,0.0,164327.0
+2200,Central Queensland University,2001,RUN,13.0,12.0,25.0,False,Central Queensland University,,4134870,0.0,170294.0,4134870.0
+3001,Charles Darwin University,2001,non-aligned,17.0,7.0,24.0,False,Charles Darwin University,,3997660,0.0,255023.0,3997660.0
+3005,Charles Sturt University,2001,RUN,19.0,6.0,25.0,False,Charles Sturt University,,4895152,0.0,255329.0,4895152.0
+2236,Curtin University,2001,ATN,73.0,44.0,117.0,False,Curtin University,,16844326,0.0,880168.0,16844326.0
+3030,Deakin University,2001,ATN,83.0,26.0,109.0,False,Deakin University,,10982645,0.0,601620.0,10982645.0
+2235,Edith Cowan University,2001,non-aligned,26.0,33.0,59.0,False,Edith Cowan University,,5469266,0.0,204405.0,5469266.0
+2154,Federation University Australia,2001,RUN,11.0,2.0,13.0,True,Federation University Australia,,1654002,0.0,68362.0,1654002.0
+3029,Flinders University,2001,IRU,76.0,19.0,95.0,False,Flinders University,,21737094,0.0,2262753.0,21737094.0
+3032,Griffith University,2001,IRU,89.0,37.0,126.0,False,Griffith University,,20093875,0.0,1245058.0,20093875.0
+1019,James Cook University,2001,IRU,71.0,27.0,98.0,False,James Cook University,,15050453,0.0,1149317.0,15050453.0
+3020,La Trobe University,2001,IRU,133.0,35.0,168.0,False,La Trobe University,,24323854,0.0,1783275.0,24323854.0
+3025,Macquarie University,2001,non-aligned,95.0,23.0,118.0,False,Macquarie University,,22681422,0.0,2034196.0,22681422.0
+3035,Monash University,2001,Go8,267.0,126.0,393.0,False,Monash University,,70385152,0.0,6139421.0,70385152.0
+1034,Murdoch University,2001,IRU,77.0,11.0,88.0,False,Murdoch University,,14571197,0.0,1042426.0,14571197.0
+3042,Queensland University of Technology,2001,non-aligned,85.0,51.0,136.0,False,Queensland University of Technology,,17547514,0.0,1013098.0,17547514.0
+3034,Royal Melbourne Institute of Technology,2001,ATN,100.0,87.0,187.0,False,Royal Melbourne Institute of Technology,,19567992,0.0,609081.0,19567992.0
+3038,Southern Cross University,2001,RUN,34.0,14.0,48.0,False,Southern Cross University,,4470774,0.0,251274.0,4470774.0
+2177,Swinburne University of Technology,2001,non-aligned,47.0,27.0,74.0,False,Swinburne University of Technology,,7865756,0.0,275524.0,7865756.0
+3033,The Australian National University,2001,Go8,254.0,31.0,285.0,False,The Australian National University,,35885684,0.0,2666138.0,35885684.0
+3010,The University of Adelaide,2001,Go8,177.0,30.0,207.0,False,The University of Adelaide,,49129448,0.0,5588805.0,49129448.0
+3036,The University of Melbourne,2001,Go8,363.0,225.0,588.0,False,The University of Melbourne,,104082408,0.0,10738371.0,104082408.0
+3044,The University of Notre Dame Australia,2001,non-aligned,0.0,2.0,2.0,True,The University of Notre Dame Australia,,265304,0.0,9627.0,265304.0
+3019,The University of Queensland,2001,Go8,317.0,107.0,424.0,False,The University of Queensland,,90679368,0.0,8307687.0,90679368.0
+3040,The University of Sydney,2001,Go8,416.0,127.0,543.0,False,The University of Sydney,,99025380,0.0,9421763.0,99025380.0
+1055,The University of Western Australia,2001,Go8,167.0,82.0,249.0,False,The University of Western Australia,,53404740,0.0,6399106.0,53404740.0
+2241,University of Canberra,2001,IRU,20.0,16.0,36.0,False,University of Canberra,,4876865,0.0,300453.0,4876865.0
+3039,University of New England,2001,RUN,63.0,34.0,97.0,False,University of New England,,14951704,0.0,1182759.0,14951704.0
+3013,University of New South Wales,2001,Go8,309.0,84.0,393.0,False,University of New South Wales,,80182359,0.0,8901889.0,80182359.0
+3014,University of Newcastle,2001,ATN,74.0,37.0,111.0,False,University of Newcastle,,24628188,0.0,2059881.0,24628188.0
+3027,University of South Australia,2001,ATN,62.0,29.0,91.0,False,University of South Australia,,13714671,0.0,713410.0,13714671.0
+2201,University of Southern Queensland,2001,RUN,18.0,10.0,28.0,False,University of Southern Queensland,,3320669,0.0,276314.0,3320669.0
+3045,University of Tasmania,2001,non-aligned,95.0,27.0,122.0,False,University of Tasmania,,23803002,0.0,1980169.0,23803002.0
+3016,University of Technology Sydney,2001,ATN,85.0,37.0,122.0,False,University of Technology Sydney,,16015182,0.0,761594.0,16015182.0
+3043,University of the Sunshine Coast,2001,RUN,2.0,2.0,4.0,True,University of the Sunshine Coast,,335796,0.0,481.0,335796.0
+1058,University of Wollongong,2001,non-aligned,81.0,41.0,122.0,False,University of Wollongong,,20932557,0.0,1311231.0,20932557.0
+3007,Victoria University,2001,non-aligned,45.0,16.0,61.0,False,Victoria University,,7314687,0.0,389569.0,7314687.0
+3004,Western Sydney University,2001,IRU,54.0,37.0,91.0,False,Western Sydney University,,12998744,0.0,720162.0,12998744.0

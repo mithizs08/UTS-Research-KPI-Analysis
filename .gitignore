@@ -1,0 +1,8 @@
+# derived/regeneratable intermediate artifacts (large, rebuilt by scripts/)
+data/student/_extract/
+data/student/completions_pivot_raw.csv
+report/preview_page*.png
+
+__pycache__/
+*.pyc
+.DS_Store

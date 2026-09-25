@@ -1,0 +1,10 @@
+Sort_Order,Test_Type,Specification,N,Coefficient,P_Value,Significant_at_5pct
+1,Lead: funding growth(t) -> completions growth(t+1),"Primary: 2015-2024, excl. 2021",290,-0.326,0.392,False
+2,Lead: funding growth(t) -> completions growth(t+1),"2015-2024, incl. 2021",332,-0.34,0.3149,False
+3,Lead: funding growth(t) -> completions growth(t+1),Excl. 2024 (Adelaide merger year),290,-0.244,0.149,False
+4,Lead: funding growth(t) -> completions growth(t+1),Excl. both 2021 and 2024,248,-0.081,0.7076,False
+5,Lead: funding growth(t) -> completions growth(t+1),"Extended window 2001-2024, excl. 2021",850,-0.163,0.4088,False
+6,Lead: funding growth(t) -> completions growth(t+1),"Extended window 2001-2024, incl. 2021",892,-0.195,0.2866,False
+7,Contemporaneous: funding growth(t) vs completions growth(t),"2015-2024, incl. 2021",374,-0.331,0.1208,False
+8,Contemporaneous: funding growth(t) vs completions growth(t),Excl. 2021 (COVID),332,-0.325,0.1411,False
+9,Contemporaneous: funding growth(t) vs completions growth(t),Excl. 2024 (Adelaide merger year),332,-0.483,0.0307,True
