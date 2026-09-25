@@ -19,21 +19,23 @@ Full write-up: [`report/UTS_Research_KPI_Insight_Report.pdf`](report/UTS_Researc
 - [RSP](https://www.education.gov.au/research-block-grants/resources/calculation-research-support-program-allocations)
   and [RTP](https://www.education.gov.au/research-block-grants/resources/calculation-research-training-program-allocations)
   calculation methodology, and the [R&D income (HERDC) time series](https://www.education.gov.au/research-block-grants/resources/research-income-time-series)
-  — used in the challenge round to test *why* Finding 2 holds (`data/methodology/`, `data/herdc_income/`)
+  — used to test *why* Finding 2 holds, beyond the observed correlation (`data/methodology/`, `data/herdc_income/`)
 
 All are public Australian Government documents/datasets; no data has been altered beyond the
 cleaning steps documented below and in Section 1 of the report.
 
-## Two findings (locked after a dedicated challenge round — see below)
+## Two findings
 
 1. **No statistically significant funding–completions dynamic detected.** Raw levels
-   correlation is high (r≈0.91), but that's driven entirely by institution size. Year-on-year
-   growth rates, with provider and year fixed effects, show no significant lead/lag
-   relationship in either direction (p>0.14 across lags −3..+3, RTP vs. RSP, with/without
-   2021), and the null result gets *more* robust on an extended 2001–2024 window (n=850,
-   p=0.29–0.71). One isolated exception noted in the report: the same-year relationship turns
-   marginally significant (p=0.03, negative) specifically when 2024 is excluded — not
-   replicated elsewhere, consistent with chance given the number of specifications tested.
+   correlation is high (r≈0.91), but that reflects persistent between-provider differences —
+   of which scale is the most obvious, though not necessarily the only one — rather than a
+   live dynamic. Year-on-year growth rates, with provider and year fixed effects, show no
+   significant lead/lag relationship in either direction (p>0.14 across lags −3..+3, RTP vs.
+   RSP, with/without 2021), and the null result gets *more* robust on an extended 2001–2024
+   window (n=850, p=0.29–0.71). One isolated exception noted in the report: the same-year
+   relationship turns marginally significant (p=0.03, negative) specifically when 2024 is
+   excluded — not replicated elsewhere, consistent with chance given the number of
+   specifications tested.
 2. **Go8's funding premium per HDR completion is mechanically explained by the legislated
    funding formulas, not by completions output.** RSP is legally 47% competitive R&D income
    share + 53% engagement income share (zero HDR completions weighting); RTP is 25%+25%
@@ -46,15 +48,13 @@ cleaning steps documented below and in Section 1 of the report.
    doesn't have. Holds independently at all 8 Go8 universities (1.56x–2.24x the non-Go8
    average; not 2–3 outliers).
 
-### Challenge round
+### Robustness checks
 
-Both findings were stress-tested on request before being locked: alternative
-numerator/denominator combinations, the RSP sub-component / formula investigation above,
-an extended time window (2001–2024) and individual-year exclusions, and an institution-by-
-institution breakdown within Go8. Full results are in the conversation record and folded
-into the report text; the RSP/RTP formula documents and HERDC income data that came out of
-that round are what elevated Finding 2 from an observed pattern to a mechanistically
-validated one.
+Both findings were stress-tested against: alternative numerator/denominator combinations,
+the RSP sub-component / formula investigation above, an extended time window (2001–2024)
+and individual-year exclusions, and an institution-by-institution breakdown within Go8. The
+RSP/RTP formula documents and HERDC income data used for that investigation are what
+elevated Finding 2 from an observed pattern to a mechanistically validated one.
 
 ## Repo structure
 
