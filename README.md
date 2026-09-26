@@ -91,10 +91,9 @@ contemporaneous specifications.
 gap over time, the predicted-vs-actual RSP share validation, and the premium by program.
 ![Finding 2](dashboard/screenshots/03_finding2_go8_premium.png)
 
-The `.pbix` file itself isn't in this repo (large binary, doesn't suit git well). No live link
-either — this account's Power BI tenant has "Publish to web" disabled (a common admin policy
-for university-managed accounts, not a technical limitation), so screenshots are the way to
-see it here.
+The `.pbix` file itself isn't in this repo (large binary, doesn't suit git well). Screenshots
+are the way to see it here — the free Power BI license used for this project doesn't include
+the Publish to Web or Share features, so there's no live link.
 
 `data/powerbi/` has six ready-to-load CSVs (base panel, precomputed YoY growth, a lead/lag
 pairing table, a robustness-check summary, and the clustered-SE regression + legislated-
