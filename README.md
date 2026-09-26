@@ -116,15 +116,12 @@ python scripts/build_go8_mechanism_validation.py  # reconstruct Go8's predicted 
 python scripts/chart_pipeline.py                # pipeline diagram
 python scripts/chart_finding1.py                # Finding 1 chart
 python scripts/chart_finding2.py                # Finding 2 chart
-python scripts/build_report.py                  # draft PDF report (final version had manual copy edits)
+python scripts/build_report.py                  # PDF report
 
 python scripts/build_powerbi_extract.py         # data/powerbi/powerbi_panel.csv, powerbi_growth.csv
 python scripts/build_powerbi_leadlag.py         # data/powerbi/powerbi_leadlag_pairs.csv
 python scripts/build_powerbi_extract_v2.py      # remaining data/powerbi/ tables (robustness checks, mechanism validation, premium results)
 ```
-
-Every number and chart in the report comes from these scripts. `build_report.py` produces a
-draft PDF; the submitted version differs only in manual copy edits to the prose.
 
 `build_master_panel.py` (v1) is kept for reference — it's the original pivot-cache-only
 completions build. It was superseded by `build_master_panel_v2.py` after cross-checking
