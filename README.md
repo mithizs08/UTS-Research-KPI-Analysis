@@ -20,7 +20,7 @@ institutions?
   — used to test *why* Finding 2 holds, beyond the observed correlation (`data/methodology/`, `data/herdc_income/`)
 
 All are public Australian Government documents/datasets; no data has been altered beyond the
-cleaning steps documented below and in Section 1 of the report.
+cleaning steps documented below.
 
 ## Two findings
 
@@ -30,7 +30,7 @@ cleaning steps documented below and in Section 1 of the report.
    live dynamic. Year-on-year growth rates, with provider and year fixed effects, show no
    significant lead/lag relationship in either direction (p>0.14 across lags −3..+3, RTP vs.
    RSP, with/without 2021), and the null result gets *more* robust on an extended 2001–2024
-   window (n=850, p=0.29–0.71). One isolated exception noted in the report: the same-year
+   window (n=850, p=0.29–0.71). One isolated exception: the same-year
    relationship turns marginally significant (p=0.03, negative) specifically when 2024 is
    excluded — not replicated elsewhere, consistent with chance given the number of
    specifications tested.
@@ -73,7 +73,7 @@ POWERBI_GUIDE.md    Power BI dashboard technical notes: data model, DAX measures
 ## Power BI dashboard
 
 Built in Power BI, reading from the extracts in `data/powerbi/`. Three pages: an overview
-with sector-wide KPIs, and one page per finding, mirroring the PDF report's two charts with
+with sector-wide KPIs, and one page per finding, mirroring the two finding charts in `charts/` with
 interactive slicers on top.
 
 **Overview**: headline KPIs (completions, funding, Go8 premium), filterable by year and cohort.
@@ -113,7 +113,7 @@ python scripts/eda_03_concentration.py          # Go8 share, rank stability, con
 python scripts/eda_04_regression.py             # formal panel regressions (statsmodels)
 
 python scripts/build_go8_mechanism_validation.py  # reconstruct Go8's predicted RSP share from HERDC income + legislated weights
-python scripts/chart_pipeline.py                # Section 1 pipeline diagram
+python scripts/chart_pipeline.py                # pipeline diagram
 python scripts/chart_finding1.py                # Finding 1 chart
 python scripts/chart_finding2.py                # Finding 2 chart
 python scripts/build_report.py                  # assembles the final PDF report
@@ -126,7 +126,7 @@ python scripts/build_powerbi_extract_v2.py      # remaining data/powerbi/ tables
 `build_master_panel.py` (v1) is kept for reference — it's the original pivot-cache-only
 completions build. It was superseded by `build_master_panel_v2.py` after cross-checking
 against the official HDR file revealed a classification gap in the pivot tool's HDR bucket
-during COVID-affected years (see Section 1.3 of the report for the full diagnosis).
+during COVID-affected years.
 
 ## Key methodology notes
 
