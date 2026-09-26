@@ -11,8 +11,7 @@ institutions?
   (Student Data collection) — Dept. of Education, Australian Government
 - [Research block grant allocations time series](https://www.education.gov.au/research-block-grants/resources/research-block-grant-allocations-time-series)
   — Dept. of Education, Australian Government
-- Official *Higher degree by research (HDR) student completions time series (1989–2024)*,
-  supplied directly for this task and used as an independent validation source
+- Official *Higher degree by research (HDR) student completions time series (1989–2024)*, https://www.education.gov.au/research-block-grants/resources/higher-degree-research-student-completions-time-series, used as an independent validation source
   (`data/hdr_official/`)
 - [RSP](https://www.education.gov.au/research-block-grants/resources/calculation-research-support-program-allocations)
   and [RTP](https://www.education.gov.au/research-block-grants/resources/calculation-research-training-program-allocations)
