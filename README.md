@@ -5,8 +5,6 @@ allocations track, lead, or lag Higher Degree by Research (HDR) completions acro
 Australian higher education providers, and is any relationship concentrated in a few
 institutions?
 
-Full write-up: [`report/UTS_Research_KPI_Insight_Report.pdf`](report/UTS_Research_KPI_Insight_Report.pdf).
-
 ## Data sources
 
 - [Higher Education Statistics](https://www.education.gov.au/higher-education-statistics)
@@ -67,7 +65,6 @@ data/
   powerbi/         Clean extracts for the Power BI dashboard (see POWERBI_GUIDE.md)
 scripts/           All data cleaning, crosswalk, analysis, and chart-generation code
 charts/            Generated chart PNGs (Finding 1, Finding 2, pipeline diagram)
-report/            Final PDF report
 dashboard/
   screenshots/     Power BI dashboard page screenshots, used in this README
 POWERBI_GUIDE.md    Power BI dashboard technical notes: data model, DAX measures, page design
