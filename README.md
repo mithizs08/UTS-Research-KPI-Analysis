@@ -70,7 +70,7 @@ charts/            Generated chart PNGs (Finding 1, Finding 2, pipeline diagram)
 report/            Final PDF report
 dashboard/
   screenshots/     Power BI dashboard page screenshots, used in this README
-POWERBI_GUIDE.md    Step-by-step Power BI dashboard build instructions
+POWERBI_GUIDE.md    Power BI dashboard technical notes: data model, DAX measures, page design
 ```
 
 ## Power BI dashboard
@@ -97,8 +97,8 @@ the Publish to Web or Share features, so there's no live link.
 
 `data/powerbi/` has six ready-to-load CSVs (base panel, precomputed YoY growth, a lead/lag
 pairing table, a robustness-check summary, and the clustered-SE regression + legislated-
-formula-validation results Power BI can't reproduce natively). `POWERBI_GUIDE.md` walks
-through the exact DAX measures and click-by-click steps to rebuild every page above.
+formula-validation results Power BI can't reproduce natively). `POWERBI_GUIDE.md` documents
+the data model, DAX measures, and page-by-page design decisions behind the dashboard above.
 
 ## Reproducing the pipeline
 
